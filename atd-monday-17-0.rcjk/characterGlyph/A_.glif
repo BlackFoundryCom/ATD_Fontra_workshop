@@ -28,12 +28,12 @@
       <point x="346" y="256" type="line"/>
     </contour>
     <contour>
-      <point x="375" y="587" type="line"/>
-      <point x="260" y="703" type="line"/>
-      <point x="160" y="602" type="line"/>
-      <point x="221" y="592" type="line"/>
-      <point x="262" y="634" type="line"/>
-      <point x="304" y="592" type="line"/>
+      <point x="322" y="663" type="line"/>
+      <point x="207" y="779" type="line"/>
+      <point x="107" y="678" type="line"/>
+      <point x="168" y="668" type="line"/>
+      <point x="209" y="710" type="line"/>
+      <point x="251" y="668" type="line"/>
     </contour>
     <contour>
       <point x="240.5" y="404.75" type="curve" smooth="yes"/>
