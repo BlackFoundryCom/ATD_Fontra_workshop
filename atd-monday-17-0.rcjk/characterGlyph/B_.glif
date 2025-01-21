@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="500"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="74" y="589" type="line"/>
+      <point x="74" y="118" type="line"/>
+      <point x="413" y="118" type="line"/>
+      <point x="413" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
