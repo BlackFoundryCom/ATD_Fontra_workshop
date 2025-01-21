@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="500"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="421" y="265" type="curve" smooth="yes"/>
+      <point x="311" y="428"/>
+      <point x="344.4406922158" y="529"/>
+      <point x="250" y="529" type="curve" smooth="yes"/>
+      <point x="155.5593077842" y="529"/>
+      <point x="-15" y="411"/>
+      <point x="-15" y="265" type="curve" smooth="yes"/>
+      <point x="-15" y="119"/>
+      <point x="155.5593077842" y="1"/>
+      <point x="250" y="1" type="curve" smooth="yes"/>
+      <point x="344.4406922158" y="1"/>
+      <point x="503" y="144"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
