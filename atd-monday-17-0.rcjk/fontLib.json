@@ -10,10 +10,10 @@
     "fontra.sourceStatusFieldDefinitions": [
         {
             "color": [
-                1.0,
-                0.0,
-                0.0,
-                1.0
+                0.8275,
+                0.0471,
+                0.9294,
+                1
             ],
             "isDefault": true,
             "label": "In progress",
