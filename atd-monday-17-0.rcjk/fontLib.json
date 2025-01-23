@@ -5,6 +5,12 @@
             "dataFormat": "glyph-names",
             "name": "GF Latin Kernel",
             "url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Kernel.txt"
+        },
+        {
+            "commentChars": "#",
+            "dataFormat": "glyph-names",
+            "name": "GF Latin Core",
+            "url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Core.txt"
         }
     ],
     "fontra.sourceStatusFieldDefinitions": [
