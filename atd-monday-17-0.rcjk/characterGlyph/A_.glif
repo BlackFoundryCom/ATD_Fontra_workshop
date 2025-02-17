@@ -169,8 +169,12 @@
     </contour>
     <contour>
       <point x="222" y="638" type="line"/>
-      <point x="164" y="576" type="line"/>
-      <point x="198" y="500" type="line"/>
+      <point x="193" y="637"/>
+      <point x="169" y="618"/>
+      <point x="164" y="576" type="curve" smooth="yes"/>
+      <point x="161" y="549"/>
+      <point x="177" y="515"/>
+      <point x="198" y="500" type="curve"/>
       <point x="252" y="494" type="line"/>
       <point x="272" y="534" type="line"/>
       <point x="253" y="553" type="line"/>
