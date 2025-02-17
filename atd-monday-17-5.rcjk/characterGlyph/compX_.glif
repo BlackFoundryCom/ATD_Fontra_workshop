@@ -57,6 +57,40 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=100,swirl1=100</string>
+          <key>location</key>
+          <dict>
+            <key>swirl1</key>
+            <integer>100</integer>
+            <key>weight</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=100,swirl1=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=900,swirl1=100</string>
+          <key>location</key>
+          <dict>
+            <key>swirl1</key>
+            <integer>100</integer>
+            <key>weight</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=900,swirl1=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
