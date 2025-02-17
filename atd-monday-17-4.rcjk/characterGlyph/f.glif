@@ -381,7 +381,10 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>largeur</key>
+            <integer>0</integer>
+          </dict>
           <key>name</key>
           <string>eyepart</string>
           <key>transform</key>
@@ -404,7 +407,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>largeur</key>
+            <integer>6</integer>
+          </dict>
           <key>name</key>
           <string>eyepart</string>
           <key>transform</key>
@@ -427,7 +433,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>largeur</key>
+            <integer>6</integer>
+          </dict>
           <key>name</key>
           <string>eyepart</string>
           <key>transform</key>
@@ -450,7 +459,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>largeur</key>
+            <real>32.0965011286682</real>
+          </dict>
           <key>name</key>
           <string>eyepart</string>
           <key>transform</key>
@@ -496,7 +508,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>largeur</key>
+            <real>39.1647855530474</real>
+          </dict>
           <key>name</key>
           <string>eyepart</string>
           <key>transform</key>
@@ -519,7 +534,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>largeur</key>
+            <real>21.7903498871332</real>
+          </dict>
           <key>name</key>
           <string>eyepart</string>
           <key>transform</key>
@@ -542,7 +560,10 @@
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>largeur</key>
+            <real>17.9669864559819</real>
+          </dict>
           <key>name</key>
           <string>eyepart</string>
           <key>transform</key>

@@ -202,20 +202,20 @@
     </contour>
     <contour>
       <point x="230" y="560" type="curve"/>
-      <point x="232" y="522" type="line"/>
-      <point x="239" y="522" type="line"/>
+      <point x="232" y="551" type="line"/>
+      <point x="239" y="551" type="line"/>
       <point x="241" y="560" type="line"/>
       <point x="246" y="560" type="line"/>
-      <point x="248" y="522" type="line"/>
-      <point x="255" y="522" type="line"/>
+      <point x="248" y="551" type="line"/>
+      <point x="255" y="551" type="line"/>
       <point x="257" y="560" type="line"/>
       <point x="263" y="560"/>
       <point x="277" y="560"/>
       <point x="277" y="553" type="curve" smooth="yes"/>
       <point x="277" y="541"/>
-      <point x="256" y="510"/>
-      <point x="245" y="510" type="curve" smooth="yes"/>
-      <point x="231" y="510"/>
+      <point x="256" y="539"/>
+      <point x="245" y="539" type="curve" smooth="yes"/>
+      <point x="231" y="539"/>
       <point x="207" y="541"/>
       <point x="207" y="551" type="curve" smooth="yes"/>
       <point x="207" y="560"/>
