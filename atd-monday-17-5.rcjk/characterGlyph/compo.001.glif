@@ -3,7 +3,7 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="391" y="260" type="line"/>
+      <point x="390" y="260" type="line"/>
       <point x="391" y="260" type="line"/>
       <point x="389" y="441"/>
       <point x="390" y="514"/>
@@ -11,6 +11,8 @@
       <point x="123" y="514"/>
       <point x="101" y="407"/>
       <point x="101" y="260" type="curve"/>
+      <point x="102" y="260" type="line"/>
+      <point x="120" y="260" type="line"/>
       <point x="121" y="260" type="line"/>
       <point x="121" y="368"/>
       <point x="125" y="499"/>
@@ -18,6 +20,7 @@
       <point x="382" y="499"/>
       <point x="371" y="389"/>
       <point x="371" y="260" type="curve"/>
+      <point x="372" y="260" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -74,6 +77,16 @@
           <key>name</key>
           <string>stem_left</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>stem_right</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -93,6 +106,8 @@
           <string>weight_left=150</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <real>682.3683311553305</real>
         </dict>
         <dict>
           <key>layerName</key>
@@ -136,6 +151,36 @@
           <true/>
           <key>sourceName</key>
           <string>height_left=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>stem_left=100</string>
+          <key>location</key>
+          <dict>
+            <key>stem_left</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>stem_left=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>stem_right=100</string>
+          <key>location</key>
+          <dict>
+            <key>stem_right</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>stem_right=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

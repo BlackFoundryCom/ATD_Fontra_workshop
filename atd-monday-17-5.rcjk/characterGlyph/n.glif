@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="n" format="2">
-  <advance width="411"/>
+  <advance width="805.6248069309898"/>
   <unicode hex="006E"/>
   <outline>
   </outline>
@@ -11,6 +11,14 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>height_left</key>
+            <integer>0</integer>
+            <key>height_right</key>
+            <integer>0</integer>
+            <key>stem_left</key>
+            <integer>51</integer>
+            <key>stem_right</key>
+            <integer>51</integer>
             <key>weight_left</key>
             <integer>20</integer>
             <key>weight_right</key>
@@ -31,7 +39,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>17</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
