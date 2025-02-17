@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x" format="2">
+  <advance width="500"/>
+  <unicode hex="0078"/>
+  <outline>
+    <contour>
+      <point x="51" y="416" type="line"/>
+      <point x="136" y="416" type="line"/>
+      <point x="136" y="501" type="line"/>
+      <point x="51" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="331" type="line"/>
+      <point x="221" y="331" type="line"/>
+      <point x="221" y="416" type="line"/>
+      <point x="136" y="416" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="246" type="line"/>
+      <point x="306" y="246" type="line"/>
+      <point x="306" y="331" type="line"/>
+      <point x="221" y="331" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="161" type="line"/>
+      <point x="391" y="161" type="line"/>
+      <point x="391" y="246" type="line"/>
+      <point x="306" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="1" type="line"/>
+      <point x="476" y="1" type="line"/>
+      <point x="476" y="86" type="line"/>
+      <point x="391" y="86" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="-2" type="line"/>
+      <point x="411" y="78" type="line"/>
+      <point x="111" y="78" type="line"/>
+      <point x="111" y="-2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
