@@ -160,8 +160,8 @@
           <string>shyness</string>
           <key>location</key>
           <dict>
-            <key>shyness</key>
-            <integer>100</integer>
+            <key>weight</key>
+            <integer>900</integer>
           </dict>
           <key>on</key>
           <true/>
