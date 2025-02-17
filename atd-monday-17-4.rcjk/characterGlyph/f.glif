@@ -709,7 +709,10 @@
             </dict>
             <dict>
               <key>coord</key>
-              <dict/>
+              <dict>
+                <key>largeur</key>
+                <real>33.0699774266366</real>
+              </dict>
               <key>name</key>
               <string>eyepart</string>
               <key>transform</key>
@@ -824,7 +827,10 @@
             </dict>
             <dict>
               <key>coord</key>
-              <dict/>
+              <dict>
+                <key>largeur</key>
+                <integer>0</integer>
+              </dict>
               <key>name</key>
               <string>eyepart</string>
               <key>transform</key>
@@ -840,7 +846,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>229</integer>
+                <integer>259</integer>
                 <key>y</key>
                 <integer>105</integer>
               </dict>
@@ -863,7 +869,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>456</integer>
+                <integer>426</integer>
                 <key>y</key>
                 <integer>324</integer>
               </dict>
