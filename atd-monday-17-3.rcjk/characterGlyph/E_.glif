@@ -19,6 +19,18 @@
       <point x="382" y="418" type="line"/>
       <point x="382" y="333" type="line"/>
     </contour>
+    <contour>
+      <point x="359" y="580" type="line"/>
+      <point x="459" y="580" type="line"/>
+      <point x="459" y="665" type="line"/>
+      <point x="359" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="85" type="line"/>
+      <point x="459" y="85" type="line"/>
+      <point x="459" y="170" type="line"/>
+      <point x="359" y="170" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
