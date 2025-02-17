@@ -1,29 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="B" format="2">
+<glyph name="K" format="2">
   <advance width="500"/>
-  <unicode hex="0042"/>
+  <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="7" y="750" type="line"/>
-      <point x="7" y="660" type="line"/>
-      <point x="-98" y="660" type="line"/>
-      <point x="-98" y="750" type="line"/>
+      <point x="139" y="500" type="line"/>
+      <point x="365" y="500" type="line"/>
+      <point x="365" y="415" type="line"/>
+      <point x="139" y="415" type="line"/>
     </contour>
     <contour>
-      <point x="107" y="0" type="line"/>
-      <point x="107" y="86" type="line"/>
-      <point x="390" y="85" type="line"/>
-      <point x="390" y="383" type="line"/>
-      <point x="107" y="382" type="line"/>
-      <point x="107" y="467" type="line"/>
-      <point x="325" y="468" type="line"/>
-      <point x="325" y="665" type="line"/>
-      <point x="107" y="664" type="line"/>
-      <point x="107" y="750" type="line"/>
-      <point x="420" y="750" type="line"/>
-      <point x="421" y="470" type="line"/>
-      <point x="490" y="470" type="line"/>
-      <point x="491" y="1" type="line"/>
+      <point x="119" y="800" type="line"/>
+      <point x="219" y="800" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="586" type="line"/>
+      <point x="419" y="750" type="line"/>
+      <point x="419" y="640" type="line"/>
+      <point x="219" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="800" type="line"/>
+      <point x="365" y="800" type="line"/>
+      <point x="356" y="715" type="line"/>
+      <point x="130" y="715" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,7 +36,7 @@
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>I</string>
+          <string>i</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -48,7 +50,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-180</integer>
+            <integer>140</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>

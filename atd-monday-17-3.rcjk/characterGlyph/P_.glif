@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="B" format="2">
+<glyph name="P" format="2">
   <advance width="500"/>
-  <unicode hex="0042"/>
+  <unicode hex="0050"/>
   <outline>
     <contour>
       <point x="7" y="750" type="line"/>
@@ -10,20 +10,17 @@
       <point x="-98" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="107" y="0" type="line"/>
-      <point x="107" y="86" type="line"/>
-      <point x="390" y="85" type="line"/>
-      <point x="390" y="383" type="line"/>
-      <point x="107" y="382" type="line"/>
-      <point x="107" y="467" type="line"/>
-      <point x="325" y="468" type="line"/>
-      <point x="325" y="665" type="line"/>
+      <point x="107" y="382" type="move"/>
+      <point x="107" y="397" type="line"/>
+      <point x="375" y="398" type="line"/>
+      <point x="375" y="665" type="line"/>
       <point x="107" y="664" type="line"/>
       <point x="107" y="750" type="line"/>
-      <point x="420" y="750" type="line"/>
-      <point x="421" y="470" type="line"/>
-      <point x="490" y="470" type="line"/>
-      <point x="491" y="1" type="line"/>
+      <point x="470" y="750" type="line"/>
+      <point x="471" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="318" type="move"/>
     </contour>
   </outline>
   <lib>
