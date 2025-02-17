@@ -10,5 +10,41 @@
                 "tag": "wght"
             }
         ]
+    },
+    "sources": {
+        "2492e71a": {
+            "guidelines": [
+                {
+                    "name": "Guideline 1",
+                    "y": 40
+                }
+            ],
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "weight": 400
+            },
+            "name": "REGULAR"
+        }
     }
 }
