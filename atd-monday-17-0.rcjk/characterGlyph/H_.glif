@@ -21,11 +21,19 @@
       <point x="423" y="439" type="line"/>
       <point x="94" y="439" type="line"/>
     </contour>
+    <contour>
+      <point x="152" y="642" type="move"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>fontra.glyph.locked</key>
+        <true/>
+      </dict>
     </dict>
   </lib>
 </glyph>
