@@ -486,21 +486,6 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
-        <dict>
-          <key>layerName</key>
-          <string>bouche</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <real>119.071175743102</real>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>bouche</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
       </array>
     </dict>
   </lib>
