@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cpc2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="0" y="500" type="line"/>
+      <point x="0" y="203" type="line"/>
+      <point x="297" y="203" type="line"/>
+      <point x="297" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
