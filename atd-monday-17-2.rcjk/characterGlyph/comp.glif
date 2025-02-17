@@ -3,15 +3,15 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="166" y="155" type="curve"/>
-      <point x="187" y="155" type="line"/>
+      <point x="166" y="499" type="curve"/>
+      <point x="187" y="499" type="line"/>
       <point x="189" y="100"/>
       <point x="203" y="67"/>
       <point x="227" y="34" type="curve"/>
       <point x="251" y="67"/>
       <point x="263" y="100"/>
-      <point x="263" y="155" type="curve"/>
-      <point x="329" y="155" type="line"/>
+      <point x="263" y="499" type="curve"/>
+      <point x="329" y="499" type="line"/>
       <point x="329" y="45"/>
       <point x="289" y="-1"/>
       <point x="249" y="-1" type="curve" smooth="yes"/>
@@ -80,16 +80,18 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>test=38.6</string>
+          <string>test=38.6,height=100</string>
           <key>location</key>
           <dict>
+            <key>height</key>
+            <integer>100</integer>
             <key>test</key>
             <real>38.6148216726183</real>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>test=38.6</string>
+          <string>test=38.6,height=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

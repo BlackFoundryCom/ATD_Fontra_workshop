@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pxl" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="346" y="339" type="curve"/>
+      <point x="246" y="339"/>
+      <point x="228" y="355"/>
+      <point x="228" y="456" type="curve"/>
+      <point x="228" y="356"/>
+      <point x="211" y="339"/>
+      <point x="111" y="339" type="curve"/>
+      <point x="211" y="339"/>
+      <point x="228" y="322"/>
+      <point x="228" y="222" type="curve"/>
+      <point x="228" y="322"/>
+      <point x="246" y="339"/>
+    </contour>
+  </outline>
+</glyph>
