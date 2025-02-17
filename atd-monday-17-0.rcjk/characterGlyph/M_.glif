@@ -4,32 +4,55 @@
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="40" y="-10" type="line"/>
-      <point x="65" y="-10" type="line"/>
-      <point x="65" y="509" type="line"/>
-      <point x="40" y="509" type="line"/>
+      <point x="40" y="-16" type="line"/>
+      <point x="65" y="-16" type="line"/>
+      <point x="65" y="209" type="line"/>
+      <point x="40" y="209" type="line"/>
     </contour>
     <contour>
-      <point x="422" y="509" type="line"/>
-      <point x="422" y="-10" type="line"/>
-      <point x="447" y="-10" type="line"/>
-      <point x="447" y="509" type="line"/>
+      <point x="422" y="209" type="line"/>
+      <point x="422" y="-16" type="line"/>
+      <point x="447" y="-16" type="line"/>
+      <point x="447" y="209" type="line"/>
     </contour>
     <contour>
-      <point x="65" y="509" type="line"/>
-      <point x="238" y="377" type="line"/>
-      <point x="238" y="348" type="line"/>
-      <point x="65" y="481" type="line"/>
+      <point x="65" y="209" type="line"/>
+      <point x="243" y="77" type="line"/>
+      <point x="243" y="48" type="line"/>
+      <point x="65" y="181" type="line"/>
     </contour>
     <contour>
-      <point x="238" y="378" type="line"/>
-      <point x="238" y="347" type="line"/>
-      <point x="422" y="478" type="line"/>
-      <point x="422" y="509" type="line"/>
+      <point x="243" y="78" type="line"/>
+      <point x="243" y="47" type="line"/>
+      <point x="422" y="178" type="line"/>
+      <point x="422" y="209" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>height</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
@@ -46,6 +69,21 @@
           <true/>
           <key>sourceName</key>
           <string>weight=900</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>height</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>height</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

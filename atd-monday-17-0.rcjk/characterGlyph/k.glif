@@ -22,22 +22,65 @@
       <point x="214" y="42" type="line"/>
     </contour>
     <contour>
-      <point x="303" y="499" type="line"/>
-      <point x="303" y="457" type="line"/>
-      <point x="417" y="457" type="line"/>
-      <point x="417" y="499" type="line"/>
+      <point x="283" y="499" type="line"/>
+      <point x="283" y="457" type="line"/>
+      <point x="447" y="457" type="line"/>
+      <point x="447" y="499" type="line"/>
     </contour>
     <contour>
-      <point x="128" y="347" type="line"/>
-      <point x="128" y="305" type="line"/>
-      <point x="242" y="305" type="line"/>
-      <point x="242" y="347" type="line"/>
+      <point x="94" y="216" type="line"/>
+      <point x="151" y="216" type="line"/>
+      <point x="398" y="475" type="line"/>
+      <point x="344" y="475" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="325" type="line"/>
+      <point x="173" y="281" type="line"/>
+      <point x="357" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="42" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="474" y="0" type="line"/>
+      <point x="474" y="42" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>1000</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>serif</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>serif=1000</string>
+          <key>location</key>
+          <dict>
+            <key>serif</key>
+            <integer>1000</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>serif=1000</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
