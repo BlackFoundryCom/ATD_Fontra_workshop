@@ -1,27 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="P" format="2">
+<glyph name="D" format="2">
   <advance width="500"/>
-  <unicode hex="0050"/>
+  <unicode hex="0044"/>
   <outline>
-    <contour>
-      <point x="7" y="750" type="line"/>
-      <point x="7" y="660" type="line"/>
-      <point x="-98" y="660" type="line"/>
-      <point x="-98" y="750" type="line"/>
-    </contour>
-    <contour>
-      <point x="474" y="318" type="move"/>
-    </contour>
-    <contour>
-      <point x="473" y="314" type="line"/>
-      <point x="107" y="311" type="line"/>
-      <point x="107" y="397" type="line"/>
-      <point x="371" y="398" type="line"/>
-      <point x="371" y="665" type="line"/>
-      <point x="107" y="664" type="line"/>
-      <point x="107" y="750" type="line"/>
-      <point x="470" y="750" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -31,7 +12,7 @@
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>I</string>
+          <string>O</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
@@ -45,7 +26,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-180</integer>
+            <integer>60</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
