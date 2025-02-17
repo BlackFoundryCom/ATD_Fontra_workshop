@@ -50,7 +50,7 @@
           <key>location</key>
           <dict>
             <key>weight</key>
-            <integer>600</integer>
+            <integer>900</integer>
           </dict>
           <key>on</key>
           <true/>
