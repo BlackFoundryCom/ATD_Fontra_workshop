@@ -141,51 +141,51 @@
       <point x="209" y="395" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="454" type="line"/>
-      <point x="60" y="500" type="line"/>
+      <point x="180" y="414" type="line"/>
+      <point x="180" y="500" type="line"/>
       <point x="51" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="450" type="line"/>
-      <point x="60" y="450" type="line"/>
-      <point x="60" y="454" type="line"/>
+      <point x="70" y="410" type="line"/>
+      <point x="180" y="410" type="line"/>
+      <point x="180" y="414" type="line"/>
       <point x="51" y="500" type="line"/>
       <point x="20" y="500" type="line"/>
-      <point x="20" y="471" type="line"/>
+      <point x="20" y="451" type="line"/>
     </contour>
     <contour>
-      <point x="20" y="471" type="line"/>
-      <point x="20" y="450" type="line"/>
-      <point x="50" y="450" type="line"/>
+      <point x="20" y="451" type="line"/>
+      <point x="20" y="410" type="line"/>
+      <point x="70" y="410" type="line"/>
     </contour>
     <contour>
-      <point x="352" y="477" type="line"/>
-      <point x="387" y="500" type="line"/>
-      <point x="342" y="500" type="line"/>
+      <point x="332" y="477" type="line"/>
+      <point x="367" y="500" type="line"/>
+      <point x="322" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="342" y="500" type="line"/>
-      <point x="330" y="500" type="line"/>
-      <point x="330" y="450" type="line"/>
-      <point x="352" y="450" type="line"/>
-      <point x="352" y="477" type="line"/>
+      <point x="322" y="500" type="line"/>
+      <point x="200" y="500" type="line"/>
+      <point x="200" y="410" type="line"/>
+      <point x="232" y="410" type="line"/>
+      <point x="332" y="477" type="line"/>
     </contour>
     <contour>
-      <point x="379" y="450" type="line"/>
-      <point x="380" y="450" type="line"/>
+      <point x="359" y="410" type="line"/>
+      <point x="380" y="410" type="line"/>
       <point x="424" y="453" type="line"/>
       <point x="424" y="500" type="line"/>
-      <point x="387" y="500" type="line"/>
-      <point x="352" y="477" type="line"/>
+      <point x="367" y="500" type="line"/>
+      <point x="332" y="477" type="line"/>
     </contour>
     <contour>
-      <point x="352" y="477" type="line"/>
-      <point x="352" y="450" type="line"/>
-      <point x="379" y="450" type="line"/>
+      <point x="332" y="477" type="line"/>
+      <point x="232" y="410" type="line"/>
+      <point x="359" y="410" type="line"/>
     </contour>
     <contour>
-      <point x="380" y="450" type="line"/>
-      <point x="424" y="450" type="line"/>
+      <point x="380" y="410" type="line"/>
+      <point x="424" y="410" type="line"/>
       <point x="424" y="453" type="line"/>
     </contour>
     <contour>
@@ -211,43 +211,4 @@
       <point x="241" y="677" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>robocjk.status</key>
-      <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>Earthquake=100</string>
-          <key>location</key>
-          <dict>
-            <key>Earthquake</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>Earthquake=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>Earthquake=900</string>
-          <key>location</key>
-          <dict>
-            <key>Earthquake</key>
-            <integer>900</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>Earthquake=900</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>
