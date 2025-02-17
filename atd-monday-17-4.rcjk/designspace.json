@@ -1,1 +1,41 @@
-{}
+{
+    "axes": {
+        "axes": [
+            {
+                "defaultValue": 400,
+                "label": "Weight",
+                "maxValue": 900,
+                "minValue": 100,
+                "name": "weight",
+                "tag": "wght"
+            }
+        ]
+    },
+    "sources": {
+        "ae0c93fa": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "name": "default"
+        }
+    }
+}
