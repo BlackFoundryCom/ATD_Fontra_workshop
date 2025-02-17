@@ -2,7 +2,7 @@
     "axes": {
         "axes": [
             {
-                "defaultValue": 100,
+                "defaultValue": 400,
                 "label": "Weight",
                 "maxValue": 900,
                 "minValue": 100,
