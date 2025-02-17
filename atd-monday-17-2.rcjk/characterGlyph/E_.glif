@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-  <advance width="682"/>
+  <advance width="652"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
@@ -127,6 +127,8 @@
           <string>Earthquake=900</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>682</integer>
         </dict>
       </array>
     </dict>
