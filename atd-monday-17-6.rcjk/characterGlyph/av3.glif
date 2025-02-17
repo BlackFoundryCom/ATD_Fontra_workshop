@@ -13,6 +13,7 @@
       <point x="400" y="120" type="line"/>
       <point x="400" y="0" type="line"/>
       <point x="600" y="60" type="line"/>
+      <point x="600" y="60" type="line"/>
     </contour>
     <contour>
       <point x="200" y="70" type="line"/>
