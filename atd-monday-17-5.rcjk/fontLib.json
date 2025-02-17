@@ -2,7 +2,6 @@
     "fontra.projectGlyphSets": [
         {
             "codePointColumn": "Unicode",
-            "codePointIsDecimal": false,
             "dataFormat": "tsv/csv",
             "glyphNameColumn": "Glyph name",
             "hasHeader": true,
