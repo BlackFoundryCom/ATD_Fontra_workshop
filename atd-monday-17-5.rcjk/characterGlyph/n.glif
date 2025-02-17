@@ -14,7 +14,7 @@
             <key>weight_left</key>
             <integer>20</integer>
             <key>weight_right</key>
-            <integer>150</integer>
+            <integer>20</integer>
           </dict>
           <key>name</key>
           <string>compo.001</string>
