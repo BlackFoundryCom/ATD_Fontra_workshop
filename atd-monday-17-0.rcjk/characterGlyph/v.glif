@@ -40,6 +40,29 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>400</integer>
+          <key>maxValue</key>
+          <integer>900</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>400</integer>
+          <key>maxValue</key>
+          <integer>900</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
@@ -58,6 +81,25 @@
           <string>weight=900</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>619</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=0</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>0</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=0</string>
+          <key>status</key>
+          <integer>0</integer>
+          <key>width</key>
+          <integer>369</integer>
         </dict>
       </array>
     </dict>

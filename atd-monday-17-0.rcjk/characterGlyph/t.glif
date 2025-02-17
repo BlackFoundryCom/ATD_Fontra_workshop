@@ -42,6 +42,38 @@
       <point x="2" y="453" type="line"/>
       <point x="116" y="453" type="line"/>
     </contour>
+    <contour>
+      <point x="333" y="-1" type="line"/>
+      <point x="333" y="35" type="line"/>
+      <point x="279" y="35"/>
+      <point x="278" y="45"/>
+      <point x="278" y="113" type="curve"/>
+      <point x="227" y="113" type="line"/>
+      <point x="227" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="-1" type="line"/>
+      <point x="163" y="-1" type="line"/>
+      <point x="163" y="113" type="line"/>
+      <point x="112" y="113" type="line"/>
+      <point x="112" y="45"/>
+      <point x="111" y="35"/>
+      <point x="57" y="35" type="curve"/>
+    </contour>
+    <contour>
+      <point x="263" y="372" type="curve" smooth="yes"/>
+      <point x="263" y="336"/>
+      <point x="233" y="306"/>
+      <point x="197" y="306" type="curve" smooth="yes"/>
+      <point x="161" y="306"/>
+      <point x="131" y="336"/>
+      <point x="131" y="372" type="curve" smooth="yes"/>
+      <point x="131" y="408"/>
+      <point x="161" y="438"/>
+      <point x="197" y="438" type="curve" smooth="yes"/>
+      <point x="233" y="438"/>
+      <point x="263" y="408"/>
+    </contour>
   </outline>
   <lib>
     <dict>

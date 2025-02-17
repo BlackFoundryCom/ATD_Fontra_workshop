@@ -8,6 +8,14 @@
                 "minValue": 100,
                 "name": "weight",
                 "tag": "wght"
+            },
+            {
+                "defaultValue": 0,
+                "label": "Slant",
+                "maxValue": 20,
+                "minValue": -20,
+                "name": "slant",
+                "tag": "slnt"
             }
         ]
     },
