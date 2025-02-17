@@ -78,7 +78,7 @@
                 <key>height</key>
                 <integer>0</integer>
                 <key>test</key>
-                <integer>100</integer>
+                <real>35.9551354401806</real>
               </dict>
               <key>name</key>
               <string>comp</string>
@@ -106,7 +106,7 @@
                 <key>height</key>
                 <integer>100</integer>
                 <key>test</key>
-                <integer>100</integer>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>comp</string>
