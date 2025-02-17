@@ -2,6 +2,38 @@
 <glyph name="VC3" format="2">
   <advance width="500"/>
   <outline>
+    <contour>
+      <point x="259" y="417" type="line"/>
+      <point x="348" y="498" type="line"/>
+      <point x="406" y="383" type="line"/>
+      <point x="259" y="252" type="line"/>
+      <point x="106" y="383" type="line"/>
+      <point x="163" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="252" type="line"/>
+      <point x="505" y="163" type="line"/>
+      <point x="390" y="105" type="line"/>
+      <point x="259" y="252" type="line"/>
+      <point x="390" y="405" type="line"/>
+      <point x="505" y="348" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="87" type="line"/>
+      <point x="170" y="6" type="line"/>
+      <point x="112" y="121" type="line"/>
+      <point x="259" y="252" type="line"/>
+      <point x="412" y="121" type="line"/>
+      <point x="355" y="6" type="line"/>
+    </contour>
+    <contour>
+      <point x="96" y="252" type="line"/>
+      <point x="15" y="163" type="line"/>
+      <point x="130" y="105" type="line"/>
+      <point x="261" y="252" type="line"/>
+      <point x="130" y="405" type="line"/>
+      <point x="15" y="348" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
