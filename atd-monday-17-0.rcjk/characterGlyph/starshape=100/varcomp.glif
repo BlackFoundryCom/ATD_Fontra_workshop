@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="varcomp" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="37" y="1" type="curve"/>
+      <point x="17" y="1"/>
+      <point x="0" y="18"/>
+      <point x="0" y="38" type="curve"/>
+      <point x="0" y="18"/>
+      <point x="-16" y="1"/>
+      <point x="-36" y="1" type="curve"/>
+      <point x="-16" y="1"/>
+      <point x="0" y="-15"/>
+      <point x="0" y="-35" type="curve"/>
+      <point x="0" y="-15"/>
+      <point x="17" y="1"/>
+    </contour>
+  </outline>
+</glyph>
