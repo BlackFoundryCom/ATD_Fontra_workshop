@@ -205,6 +205,8 @@
           <string>Earthquake=900</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <real>681.8167672515499</real>
         </dict>
       </array>
     </dict>
