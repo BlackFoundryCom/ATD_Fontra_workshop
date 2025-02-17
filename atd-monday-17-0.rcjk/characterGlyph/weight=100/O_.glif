@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="500"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="53" y="499" type="line"/>
+      <point x="166" y="26"/>
+      <point x="438" y="165"/>
+      <point x="340" y="330" type="curve"/>
+      <point x="489" y="377"/>
+      <point x="433" y="503"/>
+      <point x="336" y="502" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
