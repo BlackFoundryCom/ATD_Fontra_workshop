@@ -49,6 +49,8 @@
           <string>Black</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>556</integer>
         </dict>
         <dict>
           <key>layerName</key>
