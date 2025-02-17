@@ -1,1 +1,87 @@
-{}
+{
+    "fontra.projectGlyphSets": [
+        {
+            "codePointColumn": "Unicode",
+            "dataFormat": "tsv/csv",
+            "glyphNameColumn": "Glyph name",
+            "hasHeader": true,
+            "name": "Adobe Latin 1",
+            "url": "https://cdn.jsdelivr.net/gh/adobe-type-tools/adobe-latin-charsets/adobe-latin-1.txt"
+        },
+        {
+            "codePointColumn": "Unicode",
+            "dataFormat": "tsv/csv",
+            "glyphNameColumn": "Glyph name",
+            "hasHeader": true,
+            "name": "Adobe Latin 2",
+            "url": "https://cdn.jsdelivr.net/gh/adobe-type-tools/adobe-latin-charsets/adobe-latin-2.txt"
+        },
+        {
+            "codePointColumn": "unicode hex",
+            "dataFormat": "tsv/csv",
+            "glyphNameColumn": "name",
+            "hasHeader": true,
+            "name": "BF Arabic core",
+            "url": "https://cdn.jsdelivr.net/gh/BlackFoundryCom/BF_font_standard/Arabic/arabic_core.csv"
+        },
+        {
+            "commentChars": "#",
+            "dataFormat": "glyph-names",
+            "name": "GF Latin Kernel",
+            "url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Kernel.txt"
+        }
+    ],
+    "fontra.sourceStatusFieldDefinitions": [
+        {
+            "color": [
+                1.0,
+                0.0,
+                0.0,
+                1.0
+            ],
+            "isDefault": true,
+            "label": "In progress",
+            "value": 0
+        },
+        {
+            "color": [
+                1.0,
+                0.5,
+                0.0,
+                1.0
+            ],
+            "label": "Checking-1",
+            "value": 1
+        },
+        {
+            "color": [
+                1.0,
+                1.0,
+                0.0,
+                1.0
+            ],
+            "label": "Checking-2",
+            "value": 2
+        },
+        {
+            "color": [
+                0.0,
+                0.5,
+                1.0,
+                1.0
+            ],
+            "label": "Checking-3",
+            "value": 3
+        },
+        {
+            "color": [
+                0.0,
+                1.0,
+                0.5,
+                1.0
+            ],
+            "label": "Validated",
+            "value": 4
+        }
+    ]
+}
