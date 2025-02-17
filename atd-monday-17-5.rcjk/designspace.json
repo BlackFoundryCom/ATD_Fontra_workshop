@@ -8,6 +8,14 @@
                 "minValue": 100,
                 "name": "weight",
                 "tag": "wght"
+            },
+            {
+                "defaultValue": 0,
+                "label": "Slant",
+                "maxValue": 20,
+                "minValue": -20,
+                "name": "slant",
+                "tag": "slnt"
             }
         ]
     },
@@ -43,8 +51,7 @@
             },
             "name": "Regular"
         },
-        "93e169c0": {
-            "italicAngle": "20",
+        "b7b13253": {
             "lineMetricsHorizontalLayout": {
                 "ascender": {
                     "value": 800,
@@ -68,9 +75,10 @@
                 }
             },
             "location": {
-                "weight": 500
+                "slant": 20,
+                "weight": 400
             },
-            "name": "Italic"
+            "name": "Regular Slanted"
         },
         "f0e98463": {
             "lineMetricsHorizontalLayout": {
