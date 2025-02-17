@@ -4,9 +4,9 @@
   <outline>
     <contour>
       <point x="156" y="267" type="line"/>
-      <point x="222" y="267" type="line"/>
-      <point x="262" y="108" type="line"/>
-      <point x="298" y="267" type="line"/>
+      <point x="227" y="267" type="line"/>
+      <point x="267" y="108" type="line"/>
+      <point x="303" y="267" type="line"/>
       <point x="319" y="267" type="line"/>
       <point x="272" y="67" type="line"/>
       <point x="208" y="67" type="line"/>
@@ -26,19 +26,42 @@
           <key>name</key>
           <string>test</string>
         </dict>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>100</integer>
-          <key>minValue</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>test2</string>
-        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>test=49.9</string>
+          <key>location</key>
+          <dict>
+            <key>test</key>
+            <real>49.8912533583522</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>test=49.9</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>test=0.6</string>
+          <key>location</key>
+          <dict>
+            <key>test</key>
+            <real>0.58851123715297</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>test=0.6</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
