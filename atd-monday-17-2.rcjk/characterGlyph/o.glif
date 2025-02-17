@@ -40,9 +40,9 @@
           <key>coord</key>
           <dict>
             <key>height</key>
-            <integer>100</integer>
+            <real>33.6131489841986</real>
             <key>test</key>
-            <integer>100</integer>
+            <real>24.5414785553047</real>
           </dict>
           <key>name</key>
           <string>comp</string>
