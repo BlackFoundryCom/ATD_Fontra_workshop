@@ -64,6 +64,16 @@
             ],
             "label": "Validated",
             "value": 4
+        },
+        {
+            "color": [
+                0,
+                0.9843,
+                1,
+                1
+            ],
+            "label": "Status definition 5",
+            "value": 5
         }
     ]
 }
