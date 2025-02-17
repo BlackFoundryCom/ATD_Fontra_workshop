@@ -7,7 +7,14 @@
                 "maxValue": 100,
                 "minValue": 0,
                 "name": "italic",
-                "tag": "ital"
+                "tag": "ital",
+                "valueLabels": [
+                    {
+                        "elidable": true,
+                        "name": "italics",
+                        "value": 0
+                    }
+                ]
             }
         ]
     },
