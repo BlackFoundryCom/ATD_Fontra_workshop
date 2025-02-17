@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cpc1" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="505.5" y="306.75" type="curve" smooth="yes"/>
+      <point x="505.5" y="411.82217364945"/>
+      <point x="420.32217364945" y="497"/>
+      <point x="315.25" y="497" type="curve" smooth="yes"/>
+      <point x="210.17782635055" y="497"/>
+      <point x="125" y="411.82217364945"/>
+      <point x="125" y="306.75" type="curve" smooth="yes"/>
+      <point x="125" y="201.67782635055"/>
+      <point x="210.17782635055" y="116.5"/>
+      <point x="315.25" y="116.5" type="curve" smooth="yes"/>
+      <point x="420.32217364945" y="116.5"/>
+      <point x="505.5" y="201.67782635055"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
