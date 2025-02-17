@@ -9,7 +9,7 @@
       <point x="121" y="498" type="line"/>
     </contour>
     <contour>
-      <point x="164" y="61" type="line"/>
+      <point x="162" y="63" type="line"/>
       <point x="409" y="31" type="line"/>
       <point x="165" y="0" type="line"/>
     </contour>
@@ -72,6 +72,23 @@
           <true/>
           <key>sourceName</key>
           <string>slant=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=900,slant=20</string>
+          <key>location</key>
+          <dict>
+            <key>slant</key>
+            <integer>20</integer>
+            <key>weight</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=900,slant=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
