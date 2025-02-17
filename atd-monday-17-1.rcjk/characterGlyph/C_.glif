@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="C" format="2">
-  <advance width="500"/>
+  <advance width="375"/>
   <unicode hex="0043"/>
   <outline>
     <contour>
-      <point x="302" y="342" type="line"/>
-      <point x="400" y="303" type="line"/>
-      <point x="344" y="436" type="line"/>
-      <point x="65" y="259" type="line"/>
-      <point x="65" y="151"/>
-      <point x="115" y="61"/>
-      <point x="215" y="-10" type="curve"/>
-      <point x="324" y="-8" type="line"/>
-      <point x="324" y="28" type="line"/>
-      <point x="221" y="31" type="line"/>
-      <point x="126" y="245" type="line"/>
+      <point x="257" y="342" type="line"/>
+      <point x="355" y="303" type="line"/>
+      <point x="299" y="437" type="line"/>
+      <point x="20" y="259" type="line"/>
+      <point x="20" y="151"/>
+      <point x="70" y="70"/>
+      <point x="170" y="-1" type="curve"/>
+      <point x="279" y="1" type="line"/>
+      <point x="279" y="37" type="line"/>
+      <point x="176" y="40" type="line"/>
+      <point x="81" y="245" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,6 +37,8 @@
           <string>weight=900</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
         </dict>
       </array>
     </dict>

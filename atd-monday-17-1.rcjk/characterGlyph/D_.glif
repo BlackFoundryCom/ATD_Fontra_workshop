@@ -1,13 +1,75 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="D" format="2">
-  <advance width="500"/>
+  <advance width="483.8946883823552"/>
   <unicode hex="0044"/>
   <outline>
+    <contour>
+      <point x="125.11391796136479" y="386" type="line"/>
+      <point x="294.1139179613648" y="412"/>
+      <point x="357.1139179613648" y="329"/>
+      <point x="403.1139179613648" y="251" type="curve" smooth="yes"/>
+      <point x="449.1139179613648" y="173"/>
+      <point x="402.1139179613648" y="62"/>
+      <point x="368.1139179613648" y="45" type="curve" smooth="yes"/>
+      <point x="334.1139179613648" y="28"/>
+      <point x="334.1139179613648" y="33"/>
+      <point x="230.1139179613648" y="98" type="curve" smooth="yes"/>
+      <point x="126.11391796136479" y="163"/>
+      <point x="39.11391796136482" y="132"/>
+      <point x="26.113917961364823" y="90" type="curve" smooth="yes"/>
+      <point x="13.113917961364823" y="48"/>
+      <point x="14.113917961364823" y="3"/>
+      <point x="98.1139179613648" y="2" type="curve" smooth="yes"/>
+      <point x="182.1139179613648" y="1"/>
+      <point x="144.1139179613648" y="65"/>
+      <point x="135.1139179613648" y="124" type="curve"/>
+    </contour>
+    <contour>
+      <point x="74.11391796136482" y="436" type="curve"/>
+      <point x="104.1139179613648" y="93" type="line"/>
+      <point x="106.1139179613648" y="58"/>
+      <point x="134.1139179613648" y="20"/>
+      <point x="108.1139179613648" y="22" type="curve" smooth="yes"/>
+      <point x="82.1139179613648" y="24"/>
+      <point x="54.11391796136482" y="66"/>
+      <point x="63.11391796136482" y="85" type="curve" smooth="yes"/>
+      <point x="72.11391796136482" y="104"/>
+      <point x="129.1139179613648" y="124"/>
+      <point x="217.1139179613648" y="71" type="curve" smooth="yes"/>
+      <point x="305.1139179613648" y="18"/>
+      <point x="365.1139179613648" y="-29"/>
+      <point x="395.1139179613648" y="10" type="curve" smooth="yes"/>
+      <point x="425.1139179613648" y="49"/>
+      <point x="499.11391796136473" y="150"/>
+      <point x="444.1139179613648" y="251" type="curve" smooth="yes"/>
+      <point x="389.1139179613648" y="352"/>
+      <point x="350.1139179613648" y="443"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>weight=900</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=900</string>
+          <key>status</key>
+          <integer>0</integer>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

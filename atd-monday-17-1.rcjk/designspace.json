@@ -15,8 +15,11 @@
         "2492e71a": {
             "guidelines": [
                 {
-                    "name": "Guideline 1",
-                    "y": 40
+                    "name": "Guideline 1"
+                },
+                {
+                    "name": "Guideline 2",
+                    "y": 437
                 }
             ],
             "lineMetricsHorizontalLayout": {
