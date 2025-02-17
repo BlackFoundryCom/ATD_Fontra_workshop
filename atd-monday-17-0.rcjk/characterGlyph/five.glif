@@ -5,18 +5,22 @@
   <outline>
     <contour>
       <point x="151" y="52" type="move"/>
-      <point x="313" y="168"/>
-      <point x="390" y="346"/>
-      <point x="271" y="330" type="curve"/>
-      <point x="146" y="312" type="line"/>
-      <point x="172" y="404" type="line"/>
-      <point x="339" y="436" type="line"/>
-      <point x="186" y="393"/>
-      <point x="173" y="435"/>
+      <point x="326" y="171"/>
+      <point x="389" y="340"/>
+      <point x="279" y="330" type="curve"/>
+      <point x="145" y="312" type="line"/>
+      <point x="154" y="343"/>
+      <point x="185" y="367"/>
+      <point x="200" y="378" type="curve" smooth="yes"/>
+      <point x="223" y="396"/>
+      <point x="225" y="406"/>
+      <point x="354" y="437" type="curve"/>
+      <point x="201" y="394"/>
+      <point x="181.99862733724558" y="433.70899115794714"/>
       <point x="152" y="318" type="curve"/>
-      <point x="271" y="335" type="line"/>
-      <point x="398" y="351"/>
-      <point x="386" y="210"/>
+      <point x="271" y="333" type="line"/>
+      <point x="385" y="349"/>
+      <point x="366" y="191"/>
       <point x="151" y="52" type="curve" smooth="yes"/>
     </contour>
   </outline>
@@ -24,6 +28,39 @@
     <dict>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>weight</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>167.892020981705</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=176.4</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>176.428280635093</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=176.4</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
