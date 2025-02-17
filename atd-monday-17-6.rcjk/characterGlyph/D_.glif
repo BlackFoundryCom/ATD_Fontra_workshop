@@ -1,11 +1,60 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="D" format="2">
-  <advance width="500"/>
+  <advance width="689.7742976871592"/>
   <unicode hex="0044"/>
   <outline>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>av4</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>1.5</real>
+            <key>scaley</key>
+            <real>1.5</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>0</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>variablecomponent1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <real>-45.00000000000001</real>
+            <key>scalex</key>
+            <real>-1.5</real>
+            <key>scaley</key>
+            <real>-1.5</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>839</integer>
+            <key>y</key>
+            <integer>374</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>
