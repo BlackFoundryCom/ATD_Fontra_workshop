@@ -1,36 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="M" format="2">
-  <advance width="723.236371228003"/>
-  <unicode hex="004D"/>
+<glyph name="W" format="2">
+  <advance width="743.236371228003"/>
+  <unicode hex="0057"/>
   <outline>
   </outline>
   <lib>
     <dict>
       <key>robocjk.deepComponents</key>
       <array>
-        <dict>
-          <key>coord</key>
-          <dict/>
-          <key>name</key>
-          <string>av1</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>90</integer>
-            <key>scalex</key>
-            <real>1.4436364269000255</real>
-            <key>scaley</key>
-            <real>1.4436364269000255</real>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <real>183.23637122800307</real>
-            <key>y</key>
-            <integer>1</integer>
-          </dict>
-        </dict>
         <dict>
           <key>coord</key>
           <dict/>
@@ -49,7 +26,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>10</integer>
+            <integer>550</integer>
             <key>y</key>
             <real>695.3891213389122</real>
           </dict>
@@ -72,7 +49,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>713</integer>
+            <real>723.236371228003</real>
             <key>y</key>
             <integer>1</integer>
           </dict>
@@ -95,9 +72,32 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>540</integer>
+            <real>20.236371228003065</real>
             <key>y</key>
-            <integer>695</integer>
+            <real>695.3891213389122</real>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>av1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>90</integer>
+            <key>scalex</key>
+            <real>1.4436364269000255</real>
+            <key>scaley</key>
+            <real>1.4436364269000255</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>193.23637122800307</real>
+            <key>y</key>
+            <real>1.3891213389122186</real>
           </dict>
         </dict>
         <dict>
@@ -110,17 +110,17 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <integer>1</integer>
+            <integer>-1</integer>
             <key>scaley</key>
-            <integer>1</integer>
+            <integer>-1</integer>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>108</integer>
+            <real>625.236371228003</real>
             <key>y</key>
-            <integer>240</integer>
+            <real>456.3891213389122</real>
           </dict>
         </dict>
       </array>
