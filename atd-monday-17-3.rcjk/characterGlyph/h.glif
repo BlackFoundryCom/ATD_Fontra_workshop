@@ -3,9 +3,53 @@
   <advance width="500"/>
   <unicode hex="0068"/>
   <outline>
+    <contour>
+      <point x="149" y="500" type="line"/>
+      <point x="375" y="500" type="line"/>
+      <point x="375" y="415" type="line"/>
+      <point x="149" y="415" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="800" type="line"/>
+      <point x="229" y="800" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="79" y="800" type="line"/>
+      <point x="166" y="800" type="line"/>
+      <point x="166" y="715" type="line"/>
+      <point x="79" y="715" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>i</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>150</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>

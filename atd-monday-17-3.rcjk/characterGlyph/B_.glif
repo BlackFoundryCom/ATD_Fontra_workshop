@@ -4,17 +4,37 @@
   <unicode hex="0042"/>
   <outline>
     <contour>
-      <point x="227" y="680" type="line"/>
-      <point x="229" y="750" type="line"/>
-      <point x="492" y="751" type="line"/>
-      <point x="501" y="405" type="line"/>
-      <point x="232" y="413" type="line"/>
+      <point x="7" y="750" type="line"/>
+      <point x="7" y="660" type="line"/>
+      <point x="-108" y="660" type="line"/>
+      <point x="-108" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="289" y="681" type="line"/>
-      <point x="446" y="684" type="line"/>
-      <point x="440" y="464" type="line"/>
-      <point x="286" y="470" type="line"/>
+      <point x="491" y="1" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="100" y="470" type="line"/>
+      <point x="101.76087188720703" y="470" type="line"/>
+      <point x="101.75819396972656" y="470.984375" type="line"/>
+      <point x="212.5" y="470" type="line"/>
+      <point x="325" y="470" type="line"/>
+      <point x="325" y="665" type="line"/>
+      <point x="101.23368072509766" y="664.0054931640625" type="line"/>
+      <point x="101" y="750" type="line"/>
+      <point x="420" y="750" type="line"/>
+      <point x="420.762939453125" y="470" type="line"/>
+      <point x="490" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="382.85894775390625" type="line"/>
+      <point x="106" y="382.0125427246094" type="line"/>
+      <point x="106" y="86" type="line"/>
+      <point x="376" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="664" type="line"/>
+      <point x="101.23368072509766" y="664.0054931640625" type="line"/>
+      <point x="101.75819396972656" y="470.984375" type="line"/>
+      <point x="100" y="471" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +59,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-120</integer>
+            <integer>-180</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
