@@ -3,13 +3,20 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="156" y="267" type="line"/>
-      <point x="227" y="267" type="line"/>
-      <point x="267" y="108" type="line"/>
-      <point x="303" y="267" type="line"/>
-      <point x="319" y="267" type="line"/>
-      <point x="272" y="67" type="line"/>
-      <point x="208" y="67" type="line"/>
+      <point x="166" y="155" type="curve"/>
+      <point x="187" y="155" type="line"/>
+      <point x="189" y="100"/>
+      <point x="203" y="67"/>
+      <point x="227" y="34" type="curve"/>
+      <point x="251" y="67"/>
+      <point x="263" y="100"/>
+      <point x="263" y="155" type="curve"/>
+      <point x="329" y="155" type="line"/>
+      <point x="329" y="45"/>
+      <point x="289" y="-1"/>
+      <point x="249" y="-1" type="curve" smooth="yes"/>
+      <point x="209" y="-1"/>
+      <point x="168" y="45"/>
     </contour>
   </outline>
   <lib>
@@ -25,6 +32,16 @@
           <integer>0</integer>
           <key>name</key>
           <string>test</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>height</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -48,16 +65,31 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>test=0.6</string>
+          <string>test=100</string>
           <key>location</key>
           <dict>
             <key>test</key>
-            <real>0.58851123715297</real>
+            <integer>100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>test=0.6</string>
+          <string>test=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>test=38.6</string>
+          <key>location</key>
+          <dict>
+            <key>test</key>
+            <real>38.6148216726183</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>test=38.6</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
