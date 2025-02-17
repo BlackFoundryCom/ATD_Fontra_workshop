@@ -4,16 +4,87 @@
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="193" y="594" type="line"/>
-      <point x="204" y="80" type="line"/>
-      <point x="306" y="80" type="line"/>
-      <point x="295" y="594" type="line"/>
+      <point x="203" y="500" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="306" y="0" type="line"/>
+      <point x="305" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>400</integer>
+          <key>maxValue</key>
+          <integer>900</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>weight</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>400</integer>
+          <key>maxValue</key>
+          <integer>900</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>ital</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>weight=100</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=900</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=900</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>ital=900</string>
+          <key>location</key>
+          <dict>
+            <key>ital</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>ital=900</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

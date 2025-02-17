@@ -134,18 +134,18 @@
       <point x="252" y="112" type="line"/>
     </contour>
     <contour>
-      <point x="-232" y="603" type="line"/>
-      <point x="-202" y="494" type="line"/>
-      <point x="-162" y="494" type="line"/>
-      <point x="-146" y="540" type="line"/>
-      <point x="-129" y="494" type="line"/>
-      <point x="-89" y="494" type="line"/>
-      <point x="-65" y="617" type="line"/>
-      <point x="-99" y="617" type="line"/>
-      <point x="-117" y="559" type="line"/>
-      <point x="-151" y="607" type="line"/>
-      <point x="-177" y="548" type="line"/>
-      <point x="-189" y="612" type="line"/>
+      <point x="-352" y="612" type="line"/>
+      <point x="-322" y="503" type="line"/>
+      <point x="-282" y="503" type="line"/>
+      <point x="-266" y="549" type="line"/>
+      <point x="-249" y="503" type="line"/>
+      <point x="-209" y="503" type="line"/>
+      <point x="-185" y="626" type="line"/>
+      <point x="-219" y="626" type="line"/>
+      <point x="-237" y="568" type="line"/>
+      <point x="-271" y="616" type="line"/>
+      <point x="-297" y="557" type="line"/>
+      <point x="-309" y="621" type="line"/>
     </contour>
     <contour>
       <point x="-34" y="622" type="line"/>

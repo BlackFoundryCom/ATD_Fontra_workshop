@@ -10,16 +10,46 @@
       <point x="40" y="509" type="line"/>
     </contour>
     <contour>
-      <point x="72" y="509" type="line"/>
-      <point x="72" y="-3" type="line"/>
-      <point x="101" y="-3" type="line"/>
-      <point x="101" y="509" type="line"/>
+      <point x="422" y="509" type="line"/>
+      <point x="422" y="-10" type="line"/>
+      <point x="447" y="-10" type="line"/>
+      <point x="447" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="509" type="line"/>
+      <point x="238" y="377" type="line"/>
+      <point x="238" y="348" type="line"/>
+      <point x="65" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="378" type="line"/>
+      <point x="238" y="347" type="line"/>
+      <point x="422" y="478" type="line"/>
+      <point x="422" y="509" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>weight=900</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <integer>900</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=900</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

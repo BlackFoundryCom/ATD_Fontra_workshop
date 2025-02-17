@@ -11,8 +11,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>bend</key>
+            <real>769.342550790068</real>
             <key>weight</key>
-            <integer>400</integer>
+            <real>687.570541760722</real>
           </dict>
           <key>name</key>
           <string>adrien</string>
