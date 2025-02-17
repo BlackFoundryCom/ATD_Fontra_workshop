@@ -35,7 +35,10 @@
                     "zone": 16
                 }
             },
-            "name": "default"
+            "location": {
+                "weight": 900
+            },
+            "name": "danse"
         }
     }
 }
