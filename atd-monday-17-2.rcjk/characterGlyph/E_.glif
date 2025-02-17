@@ -4,28 +4,20 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="50" y="800" type="line"/>
       <point x="50" y="0" type="line"/>
-      <point x="250" y="0" type="line"/>
-      <point x="250" y="800" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="592" y="150" type="line"/>
+      <point x="250" y="150" type="line"/>
+      <point x="250" y="650" type="line"/>
+      <point x="592" y="650" type="line"/>
+      <point x="602" y="800" type="line"/>
+      <point x="50" y="800" type="line"/>
     </contour>
     <contour>
-      <point x="149" y="0" type="line"/>
-      <point x="632" y="0" type="line"/>
-      <point x="632" y="160" type="line"/>
-      <point x="149" y="160" type="line"/>
-    </contour>
-    <contour>
-      <point x="149" y="640" type="line"/>
-      <point x="612" y="640" type="line"/>
-      <point x="632" y="800" type="line"/>
-      <point x="149" y="800" type="line"/>
-    </contour>
-    <contour>
-      <point x="149" y="400" type="line"/>
-      <point x="532" y="400" type="line"/>
-      <point x="532" y="480" type="line"/>
-      <point x="149" y="480" type="line"/>
+      <point x="149" y="380" type="line"/>
+      <point x="502" y="380" type="line"/>
+      <point x="502" y="470" type="line"/>
+      <point x="149" y="470" type="line"/>
     </contour>
   </outline>
   <lib>
