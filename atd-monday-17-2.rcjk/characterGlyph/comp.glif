@@ -3,17 +3,40 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="156" y="294" type="line"/>
-      <point x="202" y="294" type="line"/>
-      <point x="242" y="108" type="line"/>
-      <point x="278" y="294" type="line"/>
-      <point x="319" y="294" type="line"/>
-      <point x="272" y="70" type="line"/>
+      <point x="156" y="267" type="line"/>
+      <point x="222" y="267" type="line"/>
+      <point x="262" y="108" type="line"/>
+      <point x="298" y="267" type="line"/>
+      <point x="319" y="267" type="line"/>
+      <point x="272" y="67" type="line"/>
       <point x="208" y="67" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>test</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>test2</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>
