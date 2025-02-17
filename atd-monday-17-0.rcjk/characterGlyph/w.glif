@@ -10,7 +10,10 @@
       <array>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>weight</key>
+            <integer>400</integer>
+          </dict>
           <key>name</key>
           <string>adrien</string>
           <key>transform</key>
