@@ -4,8 +4,8 @@
   <outline>
     <contour>
       <point x="24" y="48" type="curve"/>
-      <point x="11" y="48"/>
-      <point x="0" y="37"/>
+      <point x="21" y="38"/>
+      <point x="10" y="27"/>
       <point x="0" y="24" type="curve"/>
       <point x="10" y="21"/>
       <point x="21" y="10"/>
@@ -13,8 +13,8 @@
       <point x="27" y="10"/>
       <point x="38" y="21"/>
       <point x="48" y="24" type="curve"/>
-      <point x="48" y="37"/>
-      <point x="37" y="48"/>
+      <point x="38" y="27"/>
+      <point x="27" y="38"/>
     </contour>
   </outline>
 </glyph>

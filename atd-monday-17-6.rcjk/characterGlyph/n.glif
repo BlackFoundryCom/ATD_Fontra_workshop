@@ -38,7 +38,7 @@
           <key>coord</key>
           <dict>
             <key>square</key>
-            <integer>0</integer>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>av6</string>
@@ -90,7 +90,7 @@
           <key>coord</key>
           <dict>
             <key>square</key>
-            <integer>0</integer>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>av6</string>
@@ -142,7 +142,7 @@
           <key>coord</key>
           <dict>
             <key>square</key>
-            <integer>0</integer>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>av6</string>
@@ -168,7 +168,7 @@
           <key>coord</key>
           <dict>
             <key>square</key>
-            <integer>0</integer>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>av6</string>
@@ -220,7 +220,7 @@
           <key>coord</key>
           <dict>
             <key>square</key>
-            <integer>0</integer>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>av6</string>
