@@ -4,17 +4,17 @@
   <outline>
     <contour>
       <point x="391" y="260" type="line"/>
-      <point x="391" y="260" type="line" smooth="yes"/>
-      <point x="389" y="421"/>
-      <point x="385" y="514"/>
-      <point x="241" y="514" type="curve" smooth="yes"/>
+      <point x="521" y="260" type="line"/>
+      <point x="519" y="441"/>
+      <point x="465" y="514"/>
+      <point x="255" y="514" type="curve" smooth="yes"/>
       <point x="123" y="514"/>
       <point x="101" y="407"/>
       <point x="101" y="260" type="curve"/>
       <point x="121" y="260" type="line"/>
       <point x="121" y="368"/>
       <point x="125" y="499"/>
-      <point x="241" y="499" type="curve" smooth="yes"/>
+      <point x="255" y="499" type="curve" smooth="yes"/>
       <point x="382" y="499"/>
       <point x="371" y="389"/>
       <point x="371" y="260" type="curve"/>
@@ -61,6 +61,21 @@
           <true/>
           <key>sourceName</key>
           <string>weight_left=150</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>defaut</string>
+          <key>location</key>
+          <dict>
+            <key>weight_right</key>
+            <integer>150</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>defaut</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
