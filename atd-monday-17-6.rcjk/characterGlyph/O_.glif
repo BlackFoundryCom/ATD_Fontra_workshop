@@ -1,11 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="O" format="2">
-  <advance width="500"/>
+  <advance width="763.4503850815036"/>
   <unicode hex="004F"/>
   <outline>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>av3</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <real>1.8511852238986937</real>
+            <key>scaley</key>
+            <real>1.8511852238986937</real>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <real>-73.66637253832684</real>
+            <key>y</key>
+            <real>-99.91926297891268</real>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>

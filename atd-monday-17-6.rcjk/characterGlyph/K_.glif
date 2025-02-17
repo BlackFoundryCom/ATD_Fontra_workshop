@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="U" format="2">
-  <advance width="531.163179916318"/>
-  <unicode hex="0055"/>
+<glyph name="K" format="2">
+  <advance width="500"/>
+  <unicode hex="004B"/>
   <outline>
   </outline>
   <lib>
@@ -35,46 +35,46 @@
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>av4</string>
+          <string>cpc1</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>35.549566696802835</real>
             <key>scalex</key>
-            <real>1.39163179916318</real>
+            <real>0.7788124470292713</real>
             <key>scaley</key>
-            <real>-1.39163179916318</real>
+            <real>0.7788124470292709</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>372</integer>
+            <integer>340</integer>
             <key>y</key>
-            <real>695.81589958159</real>
+            <integer>141</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>cpc2</string>
+          <string>cpc1</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>-35.54956669680284</real>
             <key>scalex</key>
-            <real>0.5457262402869097</real>
+            <real>0.7788124470292713</real>
             <key>scaley</key>
-            <real>0.5457262402869097</real>
+            <real>-0.7788124470292708</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>182</integer>
+            <integer>341</integer>
             <key>y</key>
-            <integer>2</integer>
+            <integer>554</integer>
           </dict>
         </dict>
       </array>

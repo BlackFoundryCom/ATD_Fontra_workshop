@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="U" format="2">
-  <advance width="531.163179916318"/>
-  <unicode hex="0055"/>
+<glyph name="B" format="2">
+  <advance width="500"/>
+  <unicode hex="0042"/>
   <outline>
   </outline>
   <lib>
@@ -18,63 +18,63 @@
             <key>rotation</key>
             <integer>0</integer>
             <key>scalex</key>
-            <real>1.39163179916318</real>
+            <real>1.4071917631371242</real>
             <key>scaley</key>
-            <real>1.39163179916318</real>
+            <real>1.4071917631371242</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>20</integer>
-            <key>y</key>
             <integer>0</integer>
+            <key>y</key>
+            <real>-2.8817056938942116</real>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>av4</string>
+          <string>variablecomponent1</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>-45.00000000000002</real>
             <key>scalex</key>
-            <real>1.39163179916318</real>
+            <real>-0.5350349448446449</real>
             <key>scaley</key>
-            <real>-1.39163179916318</real>
+            <real>-0.5350349448446452</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>372</integer>
+            <real>443.69683482222865</real>
             <key>y</key>
-            <real>695.81589958159</real>
+            <real>566.2524626049003</real>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict/>
           <key>name</key>
-          <string>cpc2</string>
+          <string>variablecomponent1</string>
           <key>transform</key>
           <dict>
             <key>rotation</key>
-            <integer>0</integer>
+            <real>45.00000000000003</real>
             <key>scalex</key>
-            <real>0.5457262402869097</real>
+            <real>0.7584283224998122</real>
             <key>scaley</key>
-            <real>0.5457262402869097</real>
+            <real>-0.7584283224998125</real>
             <key>tcenterx</key>
             <integer>0</integer>
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>182</integer>
+            <real>86.63280973897065</real>
             <key>y</key>
-            <integer>2</integer>
+            <real>218.09193331217656</real>
           </dict>
         </dict>
       </array>
