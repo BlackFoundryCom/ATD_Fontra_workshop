@@ -1,10 +1,12 @@
 {
     "fontra.projectGlyphSets": [
         {
-            "commentChars": "#",
-            "dataFormat": "glyph-names",
-            "name": "GF Latin Plus",
-            "url": "https://cdn.jsdelivr.net/gh/googlefonts/glyphsets/data/results/txt/nice-names/GF_Latin_Plus.txt"
+            "codePointColumn": "Unicode",
+            "dataFormat": "tsv/csv",
+            "glyphNameColumn": "Glyph name",
+            "hasHeader": true,
+            "name": "Adobe Latin 1",
+            "url": "https://cdn.jsdelivr.net/gh/adobe-type-tools/adobe-latin-charsets/adobe-latin-1.txt"
         }
     ],
     "fontra.sourceStatusFieldDefinitions": [
