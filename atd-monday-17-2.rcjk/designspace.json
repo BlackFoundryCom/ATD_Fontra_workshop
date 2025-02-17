@@ -2,12 +2,12 @@
     "axes": {
         "axes": [
             {
-                "defaultValue": 0,
-                "label": "Richter",
-                "maxValue": 100,
-                "minValue": 0,
-                "name": "richter",
-                "tag": "rcht"
+                "defaultValue": 100,
+                "label": "Weight",
+                "maxValue": 900,
+                "minValue": 100,
+                "name": "Earthquake",
+                "tag": "wght"
             }
         ]
     },
