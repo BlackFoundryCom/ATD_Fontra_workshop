@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cpc2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="99" y="216" type="line"/>
+      <point x="99" y="99" type="line"/>
+      <point x="216" y="99" type="line"/>
+      <point x="216" y="216" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="315" type="line"/>
+      <point x="0" y="255" type="line"/>
+      <point x="60" y="255" type="line"/>
+      <point x="60" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="60" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="60" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="315" type="line"/>
+      <point x="255" y="255" type="line"/>
+      <point x="315" y="255" type="line"/>
+      <point x="315" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="60" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="315" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="255" type="line"/>
+      <point x="60" y="216" type="line"/>
+      <point x="99" y="216" type="line"/>
+      <point x="99" y="255" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="255" type="line"/>
+      <point x="216" y="216" type="line"/>
+      <point x="255" y="216" type="line"/>
+      <point x="255" y="255" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="99" type="line"/>
+      <point x="216" y="60" type="line"/>
+      <point x="255" y="60" type="line"/>
+      <point x="255" y="99" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="99" type="line"/>
+      <point x="60" y="60" type="line"/>
+      <point x="99" y="60" type="line"/>
+      <point x="99" y="99" type="line"/>
+    </contour>
+  </outline>
+</glyph>
