@@ -27,6 +27,12 @@
       <point x="402" y="500" type="line"/>
       <point x="502" y="500" type="line"/>
     </contour>
+    <contour>
+      <point x="2" y="415" type="line"/>
+      <point x="-48" y="415" type="line"/>
+      <point x="-48" y="500" type="line"/>
+      <point x="2" y="500" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
