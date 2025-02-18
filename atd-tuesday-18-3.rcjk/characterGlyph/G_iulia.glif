@@ -140,6 +140,29 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>CornersCut=100,StemLength=100,RoundCorners=100,StemWidth=100</string>
+          <key>layerName</key>
+          <string>CornersCut=100,StemLength=100,RoundCo.553c02c3d43a</string>
+          <key>location</key>
+          <dict>
+            <key>CornersCut</key>
+            <integer>100</integer>
+            <key>RoundCorners</key>
+            <integer>100</integer>
+            <key>StemLength</key>
+            <integer>100</integer>
+            <key>StemWidth</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>CornersCut=100,StemLength=100,RoundCorners=100,StemWidth=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>

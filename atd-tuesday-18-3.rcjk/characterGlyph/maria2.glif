@@ -8,37 +8,29 @@
       <point x="200" y="307"/>
       <point x="200" y="307"/>
       <point x="200" y="307" type="curve"/>
-      <point x="200" y="274" type="line"/>
-      <point x="200" y="274" type="line"/>
-      <point x="200" y="242" type="line"/>
-      <point x="200" y="242" type="line"/>
-      <point x="200" y="207" type="line" smooth="yes"/>
+      <point x="200" y="258" type="line"/>
+      <point x="200" y="258" type="line"/>
+      <point x="200" y="207" type="line"/>
       <point x="200" y="207"/>
       <point x="200" y="207"/>
       <point x="200" y="207" type="curve"/>
       <point x="200" y="207" type="line"/>
-      <point x="234" y="207" type="line"/>
-      <point x="234" y="207" type="line"/>
-      <point x="266" y="207" type="line"/>
-      <point x="266" y="207" type="line"/>
+      <point x="249" y="207" type="line"/>
+      <point x="249" y="207" type="line"/>
       <point x="300" y="207" type="line"/>
       <point x="300" y="207" type="line"/>
       <point x="300" y="207"/>
       <point x="300" y="207"/>
       <point x="300" y="207" type="curve"/>
-      <point x="300" y="242" type="line"/>
-      <point x="300" y="242" type="line"/>
-      <point x="300" y="274" type="line"/>
-      <point x="300" y="274" type="line"/>
+      <point x="300" y="258" type="line"/>
+      <point x="300" y="258" type="line"/>
       <point x="300" y="307" type="line" smooth="yes"/>
       <point x="300" y="307"/>
       <point x="300" y="307"/>
       <point x="300" y="307" type="curve"/>
       <point x="300" y="307" type="line"/>
-      <point x="266" y="307" type="line"/>
-      <point x="266" y="307" type="line"/>
-      <point x="234" y="307" type="line"/>
-      <point x="234" y="307" type="line"/>
+      <point x="250" y="307" type="line"/>
+      <point x="250" y="307" type="line"/>
     </contour>
   </outline>
   <lib>
