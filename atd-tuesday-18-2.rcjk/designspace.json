@@ -11,11 +11,11 @@
             },
             {
                 "defaultValue": 0,
-                "label": "Curly Global",
+                "label": "diverse Global",
                 "maxValue": 100,
                 "minValue": 0,
-                "name": "curly global",
-                "tag": "crly"
+                "name": "diverse global",
+                "tag": "dvrs"
             }
         ]
     },

@@ -27,6 +27,16 @@
           <key>name</key>
           <string>curliness</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>length</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -34,41 +44,37 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>Curly=100,curliness=100</string>
+          <string>curliness=100</string>
           <key>location</key>
           <dict>
             <key>curliness</key>
-            <integer>100</integer>
-            <key>curly global</key>
             <integer>100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>Curly=100,curliness=100</string>
+          <string>curliness=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>Curly=100,curliness=50</string>
+          <string>curliness=50</string>
           <key>location</key>
           <dict>
             <key>curliness</key>
-            <integer>50</integer>
-            <key>curly global</key>
             <integer>50</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>Curly=100,curliness=50</string>
+          <string>curliness=50</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>Curly=100,curliness=20</string>
+          <string>curliness=20</string>
           <key>location</key>
           <dict>
             <key>curliness</key>
@@ -77,7 +83,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>Curly=100,curliness=20</string>
+          <string>curliness=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
