@@ -69,6 +69,16 @@
           <key>name</key>
           <string>StemWidth</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Bend</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -175,6 +185,31 @@
           <true/>
           <key>sourceName</key>
           <string>StemWidth=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>CornersCut=100,StemLength=100,RoundCorners=100,StemWidth=100,Bend=100</string>
+          <key>layerName</key>
+          <string>CornersCut=100,StemLength=100,RoundCo.65c0ffe5ab6b</string>
+          <key>location</key>
+          <dict>
+            <key>Bend</key>
+            <integer>100</integer>
+            <key>CornersCut</key>
+            <integer>100</integer>
+            <key>RoundCorners</key>
+            <integer>100</integer>
+            <key>StemLength</key>
+            <integer>100</integer>
+            <key>StemWidth</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>CornersCut=100,StemLength=100,RoundCorners=100,StemWidth=100,Bend=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

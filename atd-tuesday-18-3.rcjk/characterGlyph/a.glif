@@ -3,44 +3,71 @@
   <advance width="500"/>
   <unicode hex="0061"/>
   <outline>
+    <contour>
+      <point x="108" y="358" type="curve"/>
+      <point x="161" y="358" type="line"/>
+      <point x="161" y="413"/>
+      <point x="180" y="496"/>
+      <point x="263" y="496" type="curve"/>
+      <point x="332" y="496"/>
+      <point x="359" y="454"/>
+      <point x="359" y="359" type="curve" smooth="yes"/>
+      <point x="359" y="296"/>
+      <point x="359" y="268"/>
+      <point x="359" y="361" type="curve"/>
+      <point x="359" y="90" type="line"/>
+      <point x="359" y="33"/>
+      <point x="385" y="-7"/>
+      <point x="441" y="-7" type="curve"/>
+      <point x="495" y="-7"/>
+      <point x="517" y="21"/>
+      <point x="517" y="100" type="curve"/>
+      <point x="481" y="100" type="line"/>
+      <point x="481" y="57"/>
+      <point x="471" y="37"/>
+      <point x="446" y="37" type="curve"/>
+      <point x="425" y="37"/>
+      <point x="414" y="53"/>
+      <point x="414" y="89" type="curve" smooth="yes"/>
+      <point x="414" y="130"/>
+      <point x="415" y="351"/>
+      <point x="415" y="373" type="curve" smooth="yes"/>
+      <point x="415" y="395"/>
+      <point x="417" y="543"/>
+      <point x="267" y="543" type="curve" smooth="yes"/>
+      <point x="158" y="543"/>
+      <point x="108" y="458"/>
+    </contour>
+    <contour>
+      <point x="-48" y="780" type="move"/>
+    </contour>
+    <contour>
+      <point x="395" y="320" type="line"/>
+      <point x="234" y="270" type="line"/>
+      <point x="116" y="233"/>
+      <point x="94" y="186"/>
+      <point x="94" y="125" type="curve"/>
+      <point x="94" y="40"/>
+      <point x="154" y="-6"/>
+      <point x="227" y="-6" type="curve"/>
+      <point x="298" y="-6"/>
+      <point x="353" y="45"/>
+      <point x="392" y="108" type="curve"/>
+      <point x="397" y="140" type="line"/>
+      <point x="331" y="72"/>
+      <point x="295" y="38"/>
+      <point x="241" y="38" type="curve"/>
+      <point x="190" y="38"/>
+      <point x="150" y="67"/>
+      <point x="150" y="124" type="curve"/>
+      <point x="150" y="173"/>
+      <point x="162" y="202"/>
+      <point x="235" y="230" type="curve"/>
+      <point x="395" y="283" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>robocjk.deepComponents</key>
-      <array>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>CornersCut</key>
-            <real>63.0149548532731</real>
-            <key>RoundCorners</key>
-            <integer>0</integer>
-            <key>StemLength</key>
-            <real>93.5031038374718</real>
-            <key>StemWidth</key>
-            <real>7.533860045146724</real>
-          </dict>
-          <key>name</key>
-          <string>Giulia</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
-            <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>352</integer>
-            <key>y</key>
-            <integer>26</integer>
-          </dict>
-        </dict>
-      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>
