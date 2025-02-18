@@ -54,7 +54,7 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>маша</string>
+          <string>light</string>
           <key>location</key>
           <dict>
             <key>weight</key>
@@ -65,7 +65,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>маша</string>
+          <string>light</string>
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
@@ -73,7 +73,7 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>chan</string>
+          <string>bold</string>
           <key>location</key>
           <dict>
             <key>weight</key>
@@ -84,7 +84,7 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>chan</string>
+          <string>bold</string>
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
