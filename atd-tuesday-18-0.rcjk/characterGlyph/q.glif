@@ -4,9 +4,6 @@
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="305" y="-230" type="line"/>
-      <point x="519" y="-230" type="line"/>
-      <point x="519" y="-214" type="line"/>
       <point x="456" y="-183" type="line"/>
       <point x="456" y="460" type="line"/>
       <point x="450" y="460" type="line"/>
@@ -42,11 +39,39 @@
       <point x="376" y="370"/>
       <point x="376" y="321" type="curve"/>
       <point x="376" y="-186" type="line"/>
-      <point x="305" y="-214" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>SERF</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>serif</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>265</integer>
+            <key>y</key>
+            <integer>-1</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
     </dict>
