@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="frie" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="174" y="499" type="line"/>
+      <point x="134" y="333"/>
+      <point x="134" y="167"/>
+      <point x="174" y="1" type="curve"/>
+      <point x="229" y="1" type="line"/>
+      <point x="189" y="167"/>
+      <point x="189" y="333"/>
+      <point x="229" y="499" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
