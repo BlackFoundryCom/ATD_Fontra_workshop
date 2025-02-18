@@ -82,18 +82,6 @@
       <point x="192" y="242"/>
       <point x="113" y="151"/>
     </contour>
-    <contour>
-      <point x="137" y="628" type="line"/>
-      <point x="192" y="625"/>
-      <point x="245" y="614"/>
-      <point x="250" y="575" type="curve"/>
-      <point x="252" y="558"/>
-      <point x="239" y="547"/>
-      <point x="226" y="546" type="curve"/>
-      <point x="180" y="542"/>
-      <point x="170" y="615"/>
-      <point x="136" y="624" type="curve"/>
-    </contour>
   </outline>
   <lib>
     <dict>
