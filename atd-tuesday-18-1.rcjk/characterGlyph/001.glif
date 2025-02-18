@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="001" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="439" y="248" type="curve"/>
+      <point x="439" y="139"/>
+      <point x="352" y="52"/>
+      <point x="242" y="52" type="curve"/>
+      <point x="133" y="52"/>
+      <point x="46" y="139"/>
+      <point x="46" y="248" type="curve"/>
+      <point x="46" y="358"/>
+      <point x="133" y="445"/>
+      <point x="242" y="445" type="curve"/>
+      <point x="352" y="445"/>
+      <point x="439" y="358"/>
+    </contour>
+    <contour>
+      <point x="94" y="238" type="line"/>
+      <point x="249" y="165" type="line"/>
+      <point x="391" y="238" type="line"/>
+      <point x="249" y="332" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>Bold</string>
+          <key>location</key>
+          <dict>
+            <key>hauteur</key>
+            <integer>100</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Bold</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
