@@ -46,11 +46,11 @@
             <key>bending</key>
             <integer>0</integer>
             <key>height</key>
-            <integer>30</integer>
-            <key>rotation</key>
             <integer>100</integer>
+            <key>rotation</key>
+            <real>49.38</real>
             <key>width</key>
-            <integer>20</integer>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>comp_1</string>
@@ -67,7 +67,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-80</integer>
+            <integer>-11</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>

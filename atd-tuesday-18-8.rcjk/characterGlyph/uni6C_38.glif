@@ -61,16 +61,16 @@
             <key>x</key>
             <integer>81</integer>
             <key>y</key>
-            <integer>4</integer>
+            <integer>-36</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>contrast</key>
-            <integer>0</integer>
+            <real>53.6117381489842</real>
             <key>width</key>
-            <real>33.3662528216704</real>
+            <real>39.454006772009</real>
           </dict>
           <key>name</key>
           <string>comp02</string>
@@ -89,16 +89,16 @@
             <key>x</key>
             <integer>31</integer>
             <key>y</key>
-            <integer>-186</integer>
+            <integer>-207</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>contrast</key>
-            <integer>100</integer>
+            <real>71.5646162528217</real>
             <key>lenght</key>
-            <integer>0</integer>
+            <real>65.293453724605</real>
           </dict>
           <key>name</key>
           <string>comp03</string>
@@ -117,12 +117,17 @@
             <key>x</key>
             <integer>-49</integer>
             <key>y</key>
-            <integer>-66</integer>
+            <integer>-91</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>contrast</key>
+            <integer>100</integer>
+            <key>height</key>
+            <real>12.514108352144497</real>
+          </dict>
           <key>name</key>
           <string>comp04</string>
           <key>transform</key>
@@ -138,14 +143,19 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>241</integer>
+            <integer>261</integer>
             <key>y</key>
-            <integer>47</integer>
+            <integer>33</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>contrast</key>
+            <integer>100</integer>
+            <key>height</key>
+            <real>38.522855530474</real>
+          </dict>
           <key>name</key>
           <string>comp05</string>
           <key>transform</key>
@@ -163,12 +173,15 @@
             <key>x</key>
             <integer>284</integer>
             <key>y</key>
-            <integer>18</integer>
+            <integer>24</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
-          <dict/>
+          <dict>
+            <key>contrast</key>
+            <integer>100</integer>
+          </dict>
           <key>name</key>
           <string>comp06</string>
           <key>transform</key>
@@ -186,7 +199,7 @@
             <key>x</key>
             <integer>100</integer>
             <key>y</key>
-            <integer>160</integer>
+            <integer>120</integer>
           </dict>
         </dict>
       </array>
