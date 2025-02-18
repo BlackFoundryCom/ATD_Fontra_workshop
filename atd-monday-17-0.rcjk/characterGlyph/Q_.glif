@@ -21,67 +21,24 @@
       <point x="467" y="103"/>
     </contour>
     <contour>
-      <point x="21" y="252" type="curve" smooth="yes"/>
-      <point x="21" y="384"/>
+      <point x="41" y="252" type="curve" smooth="yes"/>
+      <point x="41" y="384"/>
       <point x="114" y="491"/>
       <point x="230" y="491" type="curve" smooth="yes"/>
       <point x="345" y="491"/>
-      <point x="438" y="384"/>
-      <point x="438" y="252" type="curve" smooth="yes"/>
-      <point x="438" y="119"/>
+      <point x="418" y="384"/>
+      <point x="418" y="252" type="curve" smooth="yes"/>
+      <point x="418" y="119"/>
       <point x="345" y="12"/>
       <point x="230" y="12" type="curve" smooth="yes"/>
       <point x="114" y="12"/>
-      <point x="21" y="119"/>
-    </contour>
-    <contour>
-      <point x="299" y="108" type="line"/>
-      <point x="329" y="41"/>
-      <point x="329" y="-25"/>
-      <point x="299" y="-92" type="curve"/>
-      <point x="374" y="-92" type="line"/>
-      <point x="404" y="-25"/>
-      <point x="404" y="41"/>
-      <point x="374" y="108" type="curve"/>
+      <point x="41" y="119"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>robocjk.axes</key>
-      <array>
-        <dict>
-          <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
-          <integer>100</integer>
-          <key>minValue</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>bend</string>
-        </dict>
-      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>bend=900</string>
-          <key>location</key>
-          <dict>
-            <key>bend</key>
-            <integer>100</integer>
-            <key>weight</key>
-            <integer>900</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>bend=900</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>

@@ -109,5 +109,12 @@
       <point x="201" y="5"/>
       <point x="217" y="-1"/>
     </contour>
+    <contour>
+      <point x="325" y="72" type="line"/>
+      <point x="325" y="180" type="line" smooth="yes"/>
+      <point x="326" y="278"/>
+      <point x="538" y="77"/>
+      <point x="425" y="74" type="curve" smooth="yes"/>
+    </contour>
   </outline>
 </glyph>
