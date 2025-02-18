@@ -2,14 +2,6 @@
     "axes": {
         "axes": [
             {
-                "defaultValue": 400,
-                "label": "Weight Global",
-                "maxValue": 900,
-                "minValue": 100,
-                "name": "weight global",
-                "tag": "wght"
-            },
-            {
                 "defaultValue": 0,
                 "label": "diverse Global",
                 "maxValue": 100,
