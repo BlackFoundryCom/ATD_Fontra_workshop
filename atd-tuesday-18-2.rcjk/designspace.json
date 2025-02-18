@@ -3,18 +3,18 @@
         "axes": [
             {
                 "defaultValue": 400,
-                "label": "Weight",
+                "label": "Weight Global",
                 "maxValue": 900,
                 "minValue": 100,
-                "name": "weight",
+                "name": "weight global",
                 "tag": "wght"
             },
             {
                 "defaultValue": 0,
-                "label": "Curly",
+                "label": "Curly Global",
                 "maxValue": 100,
                 "minValue": 0,
-                "name": "Curly",
+                "name": "curly global",
                 "tag": "crly"
             }
         ]
