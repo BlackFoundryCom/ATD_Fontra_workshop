@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="chan" format="2">
-  <advance width="240.3628792385485"/>
+  <advance width="250.00025907269134"/>
   <outline>
     <contour>
-      <point x="20.18143961927424" y="800" type="line"/>
-      <point x="20.18143961927424" y="400" type="line"/>
+      <point x="20" y="800" type="line"/>
+      <point x="20" y="400" type="line"/>
       <point x="20" y="400"/>
-      <point x="115.18143961927424" y="400"/>
-      <point x="115.18143961927424" y="400" type="curve" smooth="yes"/>
-      <point x="115.18143961927424" y="400" type="line" smooth="yes"/>
-      <point x="115.18143961927424" y="400"/>
+      <point x="120" y="400"/>
+      <point x="120" y="400" type="curve" smooth="yes"/>
+      <point x="120" y="400" type="line" smooth="yes"/>
+      <point x="120" y="400"/>
       <point x="20" y="400"/>
-      <point x="20.18143961927424" y="400" type="curve"/>
-      <point x="20.18143961927424" y="0" type="line"/>
-      <point x="220.18143961927424" y="0" type="line"/>
-      <point x="220.18143961927424" y="400" type="line"/>
-      <point x="220" y="400"/>
-      <point x="125.18143961927424" y="400"/>
-      <point x="125.18143961927424" y="400" type="curve"/>
-      <point x="125.18143961927424" y="400" type="line" smooth="yes"/>
-      <point x="125.18143961927424" y="400"/>
-      <point x="220" y="400"/>
-      <point x="220.18143961927424" y="400" type="curve"/>
-      <point x="220.18143961927424" y="800" type="line"/>
+      <point x="20" y="400" type="curve"/>
+      <point x="20" y="0" type="line"/>
+      <point x="230.00025907269134" y="0" type="line"/>
+      <point x="230.00025907269134" y="400" type="line"/>
+      <point x="229.8188194534171" y="400"/>
+      <point x="130" y="400"/>
+      <point x="130" y="400" type="curve"/>
+      <point x="130" y="400" type="line" smooth="yes"/>
+      <point x="130" y="400"/>
+      <point x="229.8188194534171" y="400"/>
+      <point x="230.00025907269134" y="400" type="curve"/>
+      <point x="230.00025907269134" y="800" type="line"/>
     </contour>
   </outline>
 </glyph>

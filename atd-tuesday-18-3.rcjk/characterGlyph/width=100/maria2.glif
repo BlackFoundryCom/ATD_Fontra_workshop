@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maria2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="110" y="500" type="curve"/>
+      <point x="120" y="475"/>
+      <point x="140" y="405"/>
+      <point x="140" y="250" type="curve"/>
+      <point x="370" y="250" type="line"/>
+      <point x="370" y="403"/>
+      <point x="390" y="474"/>
+      <point x="400" y="500" type="curve"/>
+      <point x="378" y="510"/>
+      <point x="301" y="495"/>
+      <point x="291" y="444" type="curve"/>
+      <point x="282" y="494"/>
+      <point x="146" y="510"/>
+    </contour>
+    <contour>
+      <point x="110" y="0" type="curve"/>
+      <point x="122" y="32"/>
+      <point x="140" y="95"/>
+      <point x="140" y="250" type="curve"/>
+      <point x="370" y="250" type="line"/>
+      <point x="370" y="97"/>
+      <point x="390" y="32"/>
+      <point x="400" y="0" type="curve"/>
+      <point x="368" y="-10"/>
+      <point x="221" y="5"/>
+      <point x="211" y="56" type="curve"/>
+      <point x="202" y="6"/>
+      <point x="136" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

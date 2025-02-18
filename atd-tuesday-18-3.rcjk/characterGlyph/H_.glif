@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>CornersCut</key>
-            <integer>100</integer>
+            <real>22.9754514672686</real>
             <key>RoundCorners</key>
             <integer>100</integer>
             <key>StemLength</key>
@@ -43,14 +43,16 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>Bend</key>
+            <integer>0</integer>
             <key>CornersCut</key>
-            <integer>100</integer>
+            <integer>0</integer>
             <key>RoundCorners</key>
-            <integer>100</integer>
+            <real>75.719525959368</real>
             <key>StemLength</key>
             <integer>100</integer>
             <key>StemWidth</key>
-            <integer>0</integer>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>Giulia</string>

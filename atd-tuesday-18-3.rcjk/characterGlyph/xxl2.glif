@@ -4,20 +4,19 @@
   <outline>
     <contour>
       <point x="12" y="100" type="line"/>
-      <point x="12" y="100" type="line"/>
-      <point x="12" y="49" type="line"/>
-      <point x="12" y="0" type="line"/>
-      <point x="63" y="0" type="line"/>
-      <point x="63" y="0" type="line"/>
+      <point x="12" y="83"/>
+      <point x="12" y="66"/>
+      <point x="12" y="49" type="curve"/>
+      <point x="12" y="33"/>
+      <point x="12" y="16"/>
+      <point x="12" y="0" type="curve"/>
       <point x="112" y="0" type="line"/>
-      <point x="112" y="0" type="line"/>
-      <point x="112" y="49" type="line"/>
-      <point x="112" y="100" type="line"/>
-      <point x="112" y="100"/>
-      <point x="112" y="100"/>
+      <point x="112" y="16"/>
+      <point x="112" y="33"/>
+      <point x="112" y="49" type="curve"/>
+      <point x="112" y="66"/>
+      <point x="112" y="83"/>
       <point x="112" y="100" type="curve"/>
-      <point x="63" y="100" type="line"/>
-      <point x="63" y="100" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,6 +33,26 @@
           <key>name</key>
           <string>StemLength</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>StemWidth</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sharp</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -41,7 +60,7 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>StemLength=100</string>
+          <string>StemLength</string>
           <key>location</key>
           <dict>
             <key>StemLength</key>
@@ -50,7 +69,43 @@
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>StemLength=100</string>
+          <string>StemLength</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>StemWidth</string>
+          <key>location</key>
+          <dict>
+            <key>StemLength</key>
+            <integer>100</integer>
+            <key>StemWidth</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>StemWidth</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Sharp</string>
+          <key>location</key>
+          <dict>
+            <key>Sharp</key>
+            <integer>100</integer>
+            <key>StemLength</key>
+            <integer>100</integer>
+            <key>StemWidth</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Sharp</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

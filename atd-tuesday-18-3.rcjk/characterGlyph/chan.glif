@@ -160,7 +160,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <integer>230</integer>
+          <integer>250</integer>
         </dict>
         <dict>
           <key>layerName</key>
@@ -215,7 +215,7 @@
           <key>status</key>
           <integer>0</integer>
           <key>width</key>
-          <real>240.3628792385485</real>
+          <real>250.00025907269134</real>
         </dict>
         <dict>
           <key>fontraLayerName</key>
