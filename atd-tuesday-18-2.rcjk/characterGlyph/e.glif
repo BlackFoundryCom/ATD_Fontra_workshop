@@ -1208,6 +1208,11 @@
           <integer>0</integer>
         </dict>
       </array>
+      <key>xyz.fontra.customData</key>
+      <dict>
+        <key>fontra.glyph.note</key>
+        <string></string>
+      </dict>
     </dict>
   </lib>
 </glyph>
