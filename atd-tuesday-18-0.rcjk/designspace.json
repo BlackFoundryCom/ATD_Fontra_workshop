@@ -1,1 +1,32 @@
-{}
+{
+    "fontInfo": {
+        "copyright": "THE FRENCH BANDITS"
+    },
+    "sources": {
+        "076ef4a5": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 660,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -230,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 450,
+                    "zone": 16
+                }
+            },
+            "name": "Regular"
+        }
+    }
+}
