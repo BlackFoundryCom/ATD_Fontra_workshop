@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comp_1" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="271" y="255" type="line"/>
+      <point x="254" y="232"/>
+      <point x="246" y="232"/>
+      <point x="229" y="255" type="curve"/>
+      <point x="229" y="245" type="line"/>
+      <point x="246" y="225"/>
+      <point x="254" y="225"/>
+      <point x="271" y="245" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
