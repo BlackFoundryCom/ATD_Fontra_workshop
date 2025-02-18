@@ -5,9 +5,9 @@
     <contour>
       <point x="200" y="500" type="curve"/>
       <point x="235.89450073242188" y="509.970703125"/>
-      <point x="255.8826446533203" y="497.07598876953125"/>
-      <point x="261" y="469" type="curve"/>
-      <point x="263" y="497"/>
+      <point x="262" y="497"/>
+      <point x="267" y="469" type="curve"/>
+      <point x="269" y="497"/>
       <point x="278.06610107421875" y="509.9699401855469"/>
       <point x="300" y="500" type="curve"/>
       <point x="290" y="474"/>
@@ -17,9 +17,9 @@
       <point x="290" y="32"/>
       <point x="300" y="0" type="curve"/>
       <point x="268" y="-10"/>
-      <point x="242" y="7"/>
-      <point x="241" y="39" type="curve"/>
-      <point x="239" y="8"/>
+      <point x="235" y="7"/>
+      <point x="234" y="39" type="curve"/>
+      <point x="232" y="8"/>
       <point x="226" y="-10"/>
       <point x="200" y="0" type="curve"/>
       <point x="212" y="32"/>
@@ -72,6 +72,16 @@
           <integer>0</integer>
           <key>name</key>
           <string>serifPostition</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>backSlanted</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -135,6 +145,21 @@
           <true/>
           <key>sourceName</key>
           <string>serifPostition=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>backSlanted=100</string>
+          <key>location</key>
+          <dict>
+            <key>backSlanted</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>backSlanted=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

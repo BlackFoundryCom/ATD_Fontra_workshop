@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quarter" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="474" y="400" type="line"/>
+      <point x="474" y="400"/>
+      <point x="74" y="0"/>
+      <point x="74" y="0" type="curve"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="0"/>
+      <point x="474" y="300"/>
+      <point x="474" y="300" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
