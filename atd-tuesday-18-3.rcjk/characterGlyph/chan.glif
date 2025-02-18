@@ -340,6 +340,31 @@
           <key>width</key>
           <integer>250</integer>
         </dict>
+        <dict>
+          <key>fontraLayerName</key>
+          <string>sLength=800,serif=97.4,serifHeight=48.3,serifBracket=100</string>
+          <key>layerName</key>
+          <string>sLength=800,serif=97.4,serifHeight=48.1fdfa14805d4</string>
+          <key>location</key>
+          <dict>
+            <key>sLength</key>
+            <integer>800</integer>
+            <key>serif</key>
+            <real>97.412927328968</real>
+            <key>serifBracket</key>
+            <integer>100</integer>
+            <key>serifHeight</key>
+            <real>48.3027357088338</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>sLength=800,serif=97.4,serifHeight=48.3,serifBracket=100</string>
+          <key>status</key>
+          <integer>0</integer>
+          <key>width</key>
+          <real>244.825854657936</real>
+        </dict>
       </array>
     </dict>
   </lib>

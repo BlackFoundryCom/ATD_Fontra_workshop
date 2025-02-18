@@ -116,11 +116,11 @@
               <key>coord</key>
               <dict>
                 <key>CornersCut</key>
-                <integer>100</integer>
+                <real>67.8047404063205</real>
                 <key>RoundCorners</key>
-                <integer>100</integer>
+                <real>75.3174379232506</real>
                 <key>StemLength</key>
-                <integer>100</integer>
+                <real>19.935101580135395</real>
                 <key>StemWidth</key>
                 <integer>100</integer>
               </dict>
@@ -205,7 +205,7 @@
                 <key>x</key>
                 <integer>451</integer>
                 <key>y</key>
-                <integer>208</integer>
+                <integer>218</integer>
               </dict>
             </dict>
           </array>
