@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni523A" format="2">
+  <advance width="500"/>
+  <unicode hex="523A"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>bending</key>
+            <real>6.84255079006772</real>
+            <key>height</key>
+            <integer>100</integer>
+            <key>rotation</key>
+            <real>2.66647855530474</real>
+            <key>width</key>
+            <real>48.2999435665914</real>
+          </dict>
+          <key>name</key>
+          <string>comp_1</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>-100</integer>
+            <key>y</key>
+            <integer>0</integer>
+          </dict>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
