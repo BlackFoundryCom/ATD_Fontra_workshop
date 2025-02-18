@@ -60,6 +60,8 @@
           <string>width=50</string>
           <key>status</key>
           <integer>0</integer>
+          <key>width</key>
+          <integer>532</integer>
         </dict>
         <dict>
           <key>layerName</key>

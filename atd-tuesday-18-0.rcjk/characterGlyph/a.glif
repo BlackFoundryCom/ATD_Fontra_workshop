@@ -71,23 +71,6 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>width=135.1,optical=144</string>
-          <key>location</key>
-          <dict>
-            <key>optical</key>
-            <integer>144</integer>
-            <key>width</key>
-            <real>135.088821101741</real>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>width=135.1,optical=144</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>width=200</string>
           <key>location</key>
           <dict>
@@ -102,6 +85,21 @@
           <integer>0</integer>
           <key>width</key>
           <integer>729</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=50</string>
+          <key>location</key>
+          <dict>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=50</string>
+          <key>status</key>
+          <integer>0</integer>
         </dict>
       </array>
     </dict>

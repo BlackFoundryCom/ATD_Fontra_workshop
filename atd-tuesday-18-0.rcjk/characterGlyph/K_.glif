@@ -44,18 +44,18 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>width=100,optical=8.2</string>
+          <string>width=800,optical=8.2</string>
           <key>location</key>
           <dict>
             <key>optical</key>
-            <real>8.18920172242464</real>
+            <integer>144</integer>
             <key>width</key>
-            <real>90.2219392395852</real>
+            <integer>200</integer>
           </dict>
           <key>on</key>
-          <false/>
+          <true/>
           <key>sourceName</key>
-          <string>width=100,optical=8.2</string>
+          <string>width=800,optical=8.2</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

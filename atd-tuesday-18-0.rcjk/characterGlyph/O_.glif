@@ -40,18 +40,18 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>width=128.5,optical=8</string>
+          <string>width=200,optical=8</string>
           <key>location</key>
           <dict>
             <key>optical</key>
             <integer>8</integer>
             <key>width</key>
-            <real>128.481292893513</real>
+            <integer>200</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=128.5,optical=8</string>
+          <string>width=200,optical=8</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
