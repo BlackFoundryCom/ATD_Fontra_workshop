@@ -26,6 +26,19 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>50</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Float</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
@@ -51,12 +64,44 @@
           <key>location</key>
           <dict>
             <key>width</key>
-            <integer>150</integer>
+            <integer>50</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>half</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>sloopy</string>
+          <key>location</key>
+          <dict>
+            <key>optical</key>
+            <integer>800</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>sloopy</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>sluppy-def</string>
+          <key>location</key>
+          <dict>
+            <key>optical</key>
+            <integer>800</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>sluppy-def</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

@@ -17,6 +17,14 @@
                 "name": "optical",
                 "tag": "opsz"
             }
+        ],
+        "mappings": [
+            {
+                "description": null,
+                "groupDescription": null,
+                "inputLocation": {},
+                "outputLocation": {}
+            }
         ]
     },
     "fontInfo": {
