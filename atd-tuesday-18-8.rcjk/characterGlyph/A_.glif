@@ -118,16 +118,16 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=850</string>
+          <string>weight=900</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <integer>850</integer>
+            <integer>900</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=850</string>
+          <string>weight=900</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
