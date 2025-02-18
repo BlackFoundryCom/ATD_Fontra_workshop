@@ -3,10 +3,26 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="8" y="751" type="line"/>
-      <point x="10" y="1" type="line"/>
-      <point x="114" y="1" type="line"/>
-      <point x="112" y="751" type="line"/>
+      <point x="27" y="100" type="line"/>
+      <point x="27" y="100" type="line"/>
+      <point x="27" y="100"/>
+      <point x="27" y="100"/>
+      <point x="27" y="100" type="curve" smooth="yes"/>
+      <point x="27" y="0" type="line" smooth="yes"/>
+      <point x="27" y="0"/>
+      <point x="27" y="0"/>
+      <point x="27" y="0" type="curve"/>
+      <point x="27" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="0"/>
+      <point x="127" y="0"/>
+      <point x="127" y="0" type="curve" smooth="yes"/>
+      <point x="127" y="100" type="line" smooth="yes"/>
+      <point x="127" y="100"/>
+      <point x="127" y="100"/>
+      <point x="127" y="100" type="curve"/>
+      <point x="127" y="100" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,41 +52,6 @@
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>stemlength=100</string>
-          <key>location</key>
-          <dict>
-            <key>stemlength</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>stemlength=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>stemlength=100,stemwidth=100</string>
-          <key>location</key>
-          <dict>
-            <key>stemlength</key>
-            <integer>100</integer>
-            <key>stemwidth</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>stemlength=100,stemwidth=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>
