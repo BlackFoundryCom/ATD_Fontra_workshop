@@ -96,9 +96,9 @@
           <key>coord</key>
           <dict>
             <key>contrast</key>
-            <real>71.5646162528217</real>
+            <real>95.3583521444695</real>
             <key>lenght</key>
-            <real>65.293453724605</real>
+            <real>60.8493227990971</real>
           </dict>
           <key>name</key>
           <string>comp03</string>
@@ -117,7 +117,7 @@
             <key>x</key>
             <integer>-39</integer>
             <key>y</key>
-            <integer>-76</integer>
+            <integer>-77</integer>
           </dict>
         </dict>
         <dict>
@@ -180,7 +180,7 @@
           <key>coord</key>
           <dict>
             <key>contrast</key>
-            <real>78.5976297968397</real>
+            <integer>100</integer>
           </dict>
           <key>name</key>
           <string>comp06</string>
