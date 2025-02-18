@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="H" format="2">
+<glyph name="A" format="2">
   <advance width="500"/>
-  <unicode hex="0048"/>
+  <unicode hex="0041"/>
   <outline>
   </outline>
   <lib>
@@ -71,7 +71,7 @@
             <key>x</key>
             <integer>348</integer>
             <key>y</key>
-            <integer>224</integer>
+            <integer>203</integer>
           </dict>
         </dict>
         <dict>
@@ -117,14 +117,16 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>Bend</key>
+                <integer>0</integer>
                 <key>CornersCut</key>
-                <real>67.8047404063205</real>
+                <integer>0</integer>
                 <key>RoundCorners</key>
-                <real>75.3174379232506</real>
-                <key>StemLength</key>
-                <real>19.935101580135395</real>
-                <key>StemWidth</key>
                 <integer>100</integer>
+                <key>StemLength</key>
+                <integer>100</integer>
+                <key>StemWidth</key>
+                <integer>0</integer>
               </dict>
               <key>name</key>
               <string>Giulia</string>
@@ -141,7 +143,7 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>0</integer>
+                <integer>56</integer>
                 <key>y</key>
                 <integer>0</integer>
               </dict>
@@ -149,44 +151,14 @@
             <dict>
               <key>coord</key>
               <dict>
+                <key>Bend</key>
+                <integer>0</integer>
                 <key>CornersCut</key>
-                <integer>100</integer>
-                <key>RoundCorners</key>
-                <integer>100</integer>
-                <key>StemLength</key>
-                <integer>100</integer>
-                <key>StemWidth</key>
-                <integer>100</integer>
-              </dict>
-              <key>name</key>
-              <string>Giulia</string>
-              <key>transform</key>
-              <dict>
-                <key>rotation</key>
-                <integer>0</integer>
-                <key>scalex</key>
                 <integer>1</integer>
-                <key>scaley</key>
-                <integer>1</integer>
-                <key>tcenterx</key>
-                <integer>0</integer>
-                <key>tcentery</key>
-                <integer>0</integer>
-                <key>x</key>
-                <integer>376</integer>
-                <key>y</key>
-                <integer>0</integer>
-              </dict>
-            </dict>
-            <dict>
-              <key>coord</key>
-              <dict>
-                <key>CornersCut</key>
-                <integer>0</integer>
                 <key>RoundCorners</key>
                 <real>93.9545711060948</real>
                 <key>StemLength</key>
-                <real>59.0998871331829</real>
+                <integer>100</integer>
                 <key>StemWidth</key>
                 <integer>0</integer>
               </dict>
@@ -205,9 +177,43 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>451</integer>
+                <integer>576</integer>
                 <key>y</key>
-                <integer>218</integer>
+                <integer>125</integer>
+              </dict>
+            </dict>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>Bend</key>
+                <integer>0</integer>
+                <key>CornersCut</key>
+                <integer>0</integer>
+                <key>RoundCorners</key>
+                <integer>100</integer>
+                <key>StemLength</key>
+                <integer>100</integer>
+                <key>StemWidth</key>
+                <integer>0</integer>
+              </dict>
+              <key>name</key>
+              <string>Giulia</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>305</integer>
+                <key>y</key>
+                <integer>0</integer>
               </dict>
             </dict>
           </array>
@@ -215,13 +221,13 @@
           <string></string>
           <key>location</key>
           <dict>
-            <key>width</key>
-            <integer>200</integer>
+            <key>slant</key>
+            <integer>20</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>width=200</string>
+          <string>slant=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
@@ -291,9 +297,9 @@
                 <key>tcentery</key>
                 <integer>0</integer>
                 <key>x</key>
-                <integer>565</integer>
+                <integer>576</integer>
                 <key>y</key>
-                <integer>111</integer>
+                <integer>95</integer>
               </dict>
             </dict>
             <dict>
@@ -337,11 +343,15 @@
           <dict>
             <key>slant</key>
             <integer>20</integer>
+            <key>weight</key>
+            <integer>100</integer>
+            <key>width</key>
+            <integer>50</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>slant=20</string>
+          <string>weight=100,width=50,slant=20</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
