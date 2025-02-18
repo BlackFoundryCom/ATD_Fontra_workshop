@@ -8,6 +8,9 @@
       <point x="200" y="307"/>
       <point x="200" y="307"/>
       <point x="200" y="307" type="curve" smooth="yes"/>
+      <point x="200" y="290"/>
+      <point x="200" y="273"/>
+      <point x="200" y="256" type="curve"/>
       <point x="200" y="256" type="line"/>
       <point x="200" y="207" type="line" smooth="yes"/>
       <point x="200" y="207"/>
@@ -15,17 +18,22 @@
       <point x="200" y="207" type="curve"/>
       <point x="200" y="207" type="line"/>
       <point x="251" y="207" type="line"/>
+      <point x="251" y="207" type="line"/>
       <point x="300" y="207" type="line"/>
       <point x="300" y="207" type="line"/>
       <point x="300" y="207"/>
       <point x="300" y="207"/>
       <point x="300" y="207" type="curve" smooth="yes"/>
+      <point x="300" y="223"/>
+      <point x="300" y="240"/>
+      <point x="300" y="256" type="curve"/>
       <point x="300" y="256" type="line"/>
       <point x="300" y="307" type="line" smooth="yes"/>
       <point x="300" y="307"/>
       <point x="300" y="307"/>
       <point x="300" y="307" type="curve"/>
       <point x="300" y="307" type="line"/>
+      <point x="251" y="307" type="line"/>
       <point x="251" y="307" type="line"/>
     </contour>
   </outline>
@@ -52,6 +60,16 @@
           <integer>0</integer>
           <key>name</key>
           <string>02</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>03</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -85,6 +103,21 @@
           <true/>
           <key>sourceName</key>
           <string>02=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>03=100</string>
+          <key>location</key>
+          <dict>
+            <key>03</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>03=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
