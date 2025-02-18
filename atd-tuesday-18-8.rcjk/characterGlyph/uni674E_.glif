@@ -174,7 +174,7 @@
             <key>bending</key>
             <integer>0</integer>
             <key>height</key>
-            <real>37.5070541760722</real>
+            <real>34.043453724605</real>
             <key>rotation</key>
             <integer>50</integer>
             <key>width</key>
@@ -259,9 +259,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>46</integer>
+            <integer>56</integer>
             <key>y</key>
-            <integer>-35</integer>
+            <integer>-10</integer>
           </dict>
         </dict>
         <dict>
