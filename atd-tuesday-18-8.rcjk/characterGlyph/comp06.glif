@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="comp04" format="2">
+<glyph name="comp06" format="2">
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="316" y="357" type="line"/>
-      <point x="164" y="241" type="line"/>
-      <point x="213" y="177" type="line"/>
-      <point x="365" y="293" type="line"/>
+      <point x="324" y="432" type="line"/>
+      <point x="206" y="497" type="line"/>
+      <point x="172" y="435" type="line"/>
+      <point x="290" y="370" type="line"/>
     </contour>
   </outline>
   <lib>

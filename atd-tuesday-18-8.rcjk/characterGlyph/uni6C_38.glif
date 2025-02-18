@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni6C38" format="2">
-  <advance width="500"/>
+  <advance width="800"/>
   <unicode hex="6C38"/>
   <outline>
   </outline>
@@ -11,6 +11,8 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>contrast</key>
+            <integer>100</integer>
             <key>width</key>
             <integer>100</integer>
           </dict>
@@ -29,9 +31,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>130</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-10</integer>
           </dict>
         </dict>
         <dict>
@@ -57,16 +59,16 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-49</integer>
+            <integer>81</integer>
             <key>y</key>
-            <integer>14</integer>
+            <integer>4</integer>
           </dict>
         </dict>
         <dict>
           <key>coord</key>
           <dict>
             <key>contrast</key>
-            <real>89.242381489842</real>
+            <integer>0</integer>
             <key>width</key>
             <real>33.3662528216704</real>
           </dict>
@@ -85,9 +87,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-99</integer>
+            <integer>31</integer>
             <key>y</key>
-            <integer>-136</integer>
+            <integer>-186</integer>
           </dict>
         </dict>
         <dict>
@@ -113,9 +115,78 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-179</integer>
+            <integer>-49</integer>
             <key>y</key>
-            <integer>-16</integer>
+            <integer>-66</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>comp04</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>241</integer>
+            <key>y</key>
+            <integer>47</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>comp05</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>284</integer>
+            <key>y</key>
+            <integer>18</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict/>
+          <key>name</key>
+          <string>comp06</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>100</integer>
+            <key>y</key>
+            <integer>160</integer>
           </dict>
         </dict>
       </array>

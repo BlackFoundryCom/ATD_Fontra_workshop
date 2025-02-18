@@ -205,6 +205,72 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>r75</string>
+          <key>location</key>
+          <dict>
+            <key>rotation</key>
+            <integer>75</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>r75</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>w100r75b100</string>
+          <key>location</key>
+          <dict>
+            <key>bending</key>
+            <integer>100</integer>
+            <key>rotation</key>
+            <integer>75</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>w100r75b100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>w100r100b100</string>
+          <key>location</key>
+          <dict>
+            <key>bending</key>
+            <integer>100</integer>
+            <key>rotation</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>w100r100b100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>h0</string>
+          <key>location</key>
+          <dict>
+            <key>height</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>0</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>h0</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
