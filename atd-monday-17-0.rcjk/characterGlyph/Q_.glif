@@ -57,32 +57,52 @@
       <point x="84" y="107"/>
     </contour>
     <contour>
-      <point x="556" y="512" type="line"/>
-      <point x="556" y="138" type="line"/>
-      <point x="597" y="138" type="line"/>
-      <point x="597" y="512" type="line"/>
+      <point x="546" y="512" type="line"/>
+      <point x="546" y="108" type="line"/>
+      <point x="587" y="98" type="line"/>
+      <point x="587" y="512" type="line"/>
     </contour>
     <contour>
-      <point x="716" y="512" type="line"/>
-      <point x="716" y="135" type="line"/>
-      <point x="737" y="105" type="line"/>
-      <point x="737" y="512" type="line"/>
+      <point x="726" y="512" type="line"/>
+      <point x="726" y="95" type="line"/>
+      <point x="747" y="95" type="line"/>
+      <point x="747" y="512" type="line"/>
     </contour>
     <contour>
-      <point x="556" y="111" type="line"/>
-      <point x="556" y="55"/>
-      <point x="574" y="-14"/>
+      <point x="546" y="111" type="line"/>
+      <point x="546" y="55"/>
+      <point x="584" y="-14"/>
       <point x="658" y="-13" type="curve" smooth="yes"/>
       <point x="728" y="-12"/>
-      <point x="737" y="61"/>
-      <point x="737" y="106" type="curve"/>
-      <point x="716" y="137" type="line"/>
-      <point x="716" y="109"/>
+      <point x="747" y="61"/>
+      <point x="747" y="96" type="curve"/>
+      <point x="726" y="97" type="line"/>
+      <point x="726" y="69"/>
       <point x="715" y="5"/>
       <point x="664" y="4" type="curve" smooth="yes"/>
       <point x="610" y="3"/>
-      <point x="597" y="85"/>
-      <point x="597" y="131" type="curve"/>
+      <point x="587" y="55"/>
+      <point x="587" y="101" type="curve"/>
+    </contour>
+    <contour>
+      <point x="527" y="512" type="line"/>
+      <point x="547" y="463" type="line"/>
+      <point x="558" y="512" type="line"/>
+    </contour>
+    <contour>
+      <point x="604" y="512" type="line"/>
+      <point x="571" y="512" type="line"/>
+      <point x="586" y="463" type="line"/>
+    </contour>
+    <contour>
+      <point x="707" y="512" type="line"/>
+      <point x="727" y="463" type="line"/>
+      <point x="738" y="512" type="line"/>
+    </contour>
+    <contour>
+      <point x="764" y="512" type="line"/>
+      <point x="731" y="512" type="line"/>
+      <point x="746" y="463" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -103,6 +123,36 @@
           <true/>
           <key>sourceName</key>
           <string>weight=900</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=632.3</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>632.324596955778</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=632.3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=692.3</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>692.27235882194</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=692.3</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
