@@ -1,1 +1,20 @@
-{}
+{
+    "axes": {
+        "axes": [
+            {
+                "defaultValue": 100,
+                "label": "Width",
+                "maxValue": 200,
+                "minValue": 50,
+                "name": "width",
+                "tag": "wdth",
+                "valueLabels": [
+                    {
+                        "name": "Regular",
+                        "value": 100
+                    }
+                ]
+            }
+        ]
+    }
+}
