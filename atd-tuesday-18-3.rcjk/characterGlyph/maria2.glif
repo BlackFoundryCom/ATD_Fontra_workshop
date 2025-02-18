@@ -93,6 +93,16 @@
           <key>name</key>
           <string>serifTwig</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>length</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -185,6 +195,21 @@
           <true/>
           <key>sourceName</key>
           <string>serifTwig=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>length=100</string>
+          <key>location</key>
+          <dict>
+            <key>length</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>length=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
