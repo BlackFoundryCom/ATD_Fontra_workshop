@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="test" format="2">
+<glyph name="i" format="2">
   <advance width="500"/>
+  <unicode hex="0069"/>
   <outline>
   </outline>
   <lib>
@@ -11,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>curliness</key>
-            <real>53.3084085778781</real>
+            <integer>0</integer>
           </dict>
           <key>name</key>
           <string>frie</string>
