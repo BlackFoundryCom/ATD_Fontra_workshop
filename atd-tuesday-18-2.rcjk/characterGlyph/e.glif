@@ -294,7 +294,7 @@
             <key>curliness</key>
             <integer>0</integer>
             <key>length</key>
-            <integer>100</integer>
+            <real>61.6817155756208</real>
           </dict>
           <key>name</key>
           <string>frie</string>
@@ -322,7 +322,7 @@
             <key>curliness</key>
             <integer>0</integer>
             <key>length</key>
-            <integer>100</integer>
+            <real>51.8270316027088</real>
           </dict>
           <key>name</key>
           <string>frie</string>
@@ -350,7 +350,7 @@
             <key>curliness</key>
             <integer>0</integer>
             <key>length</key>
-            <integer>100</integer>
+            <real>70.2102144469526</real>
           </dict>
           <key>name</key>
           <string>frie</string>
@@ -378,7 +378,7 @@
             <key>curliness</key>
             <integer>0</integer>
             <key>length</key>
-            <integer>100</integer>
+            <real>61.9568284424379</real>
           </dict>
           <key>name</key>
           <string>frie</string>
@@ -406,7 +406,7 @@
             <key>curliness</key>
             <integer>0</integer>
             <key>length</key>
-            <integer>100</integer>
+            <real>72.6791760722348</real>
           </dict>
           <key>name</key>
           <string>frie</string>
@@ -490,7 +490,7 @@
             <key>curliness</key>
             <integer>0</integer>
             <key>length</key>
-            <integer>100</integer>
+            <real>64.933690744921</real>
           </dict>
           <key>name</key>
           <string>frie</string>
@@ -574,7 +574,7 @@
             <key>curliness</key>
             <integer>0</integer>
             <key>length</key>
-            <integer>100</integer>
+            <real>61.8157449209932</real>
           </dict>
           <key>name</key>
           <string>frie</string>
