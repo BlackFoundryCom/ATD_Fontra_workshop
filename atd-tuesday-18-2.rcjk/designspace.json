@@ -8,6 +8,14 @@
                 "minValue": 100,
                 "name": "weight",
                 "tag": "wght"
+            },
+            {
+                "defaultValue": 0,
+                "label": "Curly",
+                "maxValue": 100,
+                "minValue": 0,
+                "name": "Curly",
+                "tag": "crly"
             }
         ]
     },
