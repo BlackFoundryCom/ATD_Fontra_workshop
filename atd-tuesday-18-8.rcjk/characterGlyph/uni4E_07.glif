@@ -11,8 +11,10 @@
         <dict>
           <key>coord</key>
           <dict>
+            <key>height</key>
+            <real>27.708803611738205</real>
             <key>wide</key>
-            <integer>0</integer>
+            <real>49.1464446952596</real>
           </dict>
           <key>name</key>
           <string>myVac</string>
