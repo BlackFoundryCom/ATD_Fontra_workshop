@@ -12,7 +12,7 @@
           <key>coord</key>
           <dict>
             <key>CornersCut</key>
-            <real>22.9754514672686</real>
+            <integer>0</integer>
             <key>RoundCorners</key>
             <integer>100</integer>
             <key>StemLength</key>
@@ -35,7 +35,7 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>0</integer>
+            <integer>56</integer>
             <key>y</key>
             <integer>0</integer>
           </dict>
@@ -46,43 +46,11 @@
             <key>Bend</key>
             <integer>0</integer>
             <key>CornersCut</key>
-            <integer>0</integer>
-            <key>RoundCorners</key>
-            <real>75.719525959368</real>
-            <key>StemLength</key>
-            <integer>100</integer>
-            <key>StemWidth</key>
-            <integer>100</integer>
-          </dict>
-          <key>name</key>
-          <string>Giulia</string>
-          <key>transform</key>
-          <dict>
-            <key>rotation</key>
-            <integer>0</integer>
-            <key>scalex</key>
             <integer>1</integer>
-            <key>scaley</key>
-            <integer>1</integer>
-            <key>tcenterx</key>
-            <integer>0</integer>
-            <key>tcentery</key>
-            <integer>0</integer>
-            <key>x</key>
-            <integer>376</integer>
-            <key>y</key>
-            <integer>0</integer>
-          </dict>
-        </dict>
-        <dict>
-          <key>coord</key>
-          <dict>
-            <key>CornersCut</key>
-            <integer>0</integer>
             <key>RoundCorners</key>
             <real>93.9545711060948</real>
             <key>StemLength</key>
-            <real>59.0998871331829</real>
+            <real>33.6413656884876</real>
             <key>StemWidth</key>
             <integer>0</integer>
           </dict>
@@ -101,9 +69,41 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>408</integer>
+            <integer>348</integer>
             <key>y</key>
             <integer>224</integer>
+          </dict>
+        </dict>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>CornersCut</key>
+            <integer>0</integer>
+            <key>RoundCorners</key>
+            <integer>100</integer>
+            <key>StemLength</key>
+            <integer>100</integer>
+            <key>StemWidth</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>Giulia</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>305</integer>
+            <key>y</key>
+            <integer>0</integer>
           </dict>
         </dict>
       </array>

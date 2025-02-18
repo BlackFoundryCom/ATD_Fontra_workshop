@@ -4,6 +4,24 @@
             {
                 "defaultValue": 400,
                 "label": "Weight",
+                "mapping": [
+                    [
+                        100,
+                        100
+                    ],
+                    [
+                        300,
+                        500
+                    ],
+                    [
+                        700,
+                        800
+                    ],
+                    [
+                        1000,
+                        900
+                    ]
+                ],
                 "maxValue": 900,
                 "minValue": 100,
                 "name": "weight",

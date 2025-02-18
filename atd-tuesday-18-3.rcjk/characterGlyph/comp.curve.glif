@@ -3,13 +3,23 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="261" y="513" type="line"/>
-      <point x="150" y="513"/>
+      <point x="260" y="513" type="line"/>
+      <point x="149" y="513"/>
       <point x="98" y="446"/>
       <point x="98" y="348" type="curve"/>
       <point x="151" y="348" type="line"/>
-      <point x="151" y="422"/>
-      <point x="181" y="470"/>
+      <point x="151" y="429"/>
+      <point x="183" y="470"/>
+      <point x="260" y="470" type="curve"/>
+    </contour>
+    <contour>
+      <point x="260" y="513" type="line"/>
+      <point x="149" y="513"/>
+      <point x="98" y="446"/>
+      <point x="98" y="348" type="curve"/>
+      <point x="151" y="348" type="line"/>
+      <point x="151" y="429"/>
+      <point x="183" y="470"/>
       <point x="260" y="470" type="curve"/>
     </contour>
   </outline>
@@ -34,7 +44,7 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>Curve=100</string>
+          <string></string>
           <key>location</key>
           <dict>
             <key>Curve</key>
