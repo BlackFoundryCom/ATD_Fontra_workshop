@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="chan" format="2">
-  <advance width="500"/>
+  <advance width="50"/>
   <outline>
     <contour>
-      <point x="27" y="100" type="line"/>
-      <point x="27" y="100" type="line"/>
-      <point x="27" y="100"/>
-      <point x="27" y="100"/>
-      <point x="27" y="100" type="curve" smooth="yes"/>
-      <point x="27" y="0" type="line" smooth="yes"/>
-      <point x="27" y="0"/>
-      <point x="27" y="0"/>
-      <point x="27" y="0" type="curve"/>
-      <point x="27" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="127" y="0"/>
-      <point x="127" y="0"/>
-      <point x="127" y="0" type="curve" smooth="yes"/>
-      <point x="127" y="100" type="line" smooth="yes"/>
-      <point x="127" y="100"/>
-      <point x="127" y="100"/>
-      <point x="127" y="100" type="curve"/>
-      <point x="127" y="100" type="line"/>
+      <point x="20" y="10" type="line"/>
+      <point x="20" y="10" type="line"/>
+      <point x="20" y="10"/>
+      <point x="20" y="10"/>
+      <point x="20" y="10" type="curve" smooth="yes"/>
+      <point x="20" y="0" type="line" smooth="yes"/>
+      <point x="20" y="0"/>
+      <point x="20" y="0"/>
+      <point x="20" y="0" type="curve"/>
+      <point x="20" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="0"/>
+      <point x="30" y="0"/>
+      <point x="30" y="0" type="curve" smooth="yes"/>
+      <point x="30" y="10" type="line" smooth="yes"/>
+      <point x="30" y="10"/>
+      <point x="30" y="10"/>
+      <point x="30" y="10" type="curve"/>
+      <point x="30" y="10" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -31,27 +31,62 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
+          <integer>10</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>800</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>10</integer>
           <key>name</key>
-          <string>stemlength</string>
+          <string>sLength</string>
         </dict>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
+          <integer>10</integer>
           <key>maxValue</key>
-          <integer>100</integer>
+          <integer>800</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>10</integer>
           <key>name</key>
-          <string>stemwidth</string>
+          <string>sWidth</string>
         </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>sLength=800</string>
+          <key>location</key>
+          <dict>
+            <key>sLength</key>
+            <integer>800</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>sLength=800</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>sWidth=800</string>
+          <key>location</key>
+          <dict>
+            <key>sWidth</key>
+            <integer>800</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>sWidth=800</string>
+          <key>status</key>
+          <integer>0</integer>
+          <key>width</key>
+          <integer>840</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

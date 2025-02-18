@@ -3,14 +3,63 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="27" y="500" type="line"/>
+      <point x="27" y="100" type="line"/>
+      <point x="27" y="100" type="line"/>
+      <point x="27" y="100"/>
+      <point x="27" y="100"/>
+      <point x="27" y="100" type="curve" smooth="yes"/>
+      <point x="27" y="83"/>
+      <point x="27" y="65"/>
+      <point x="27" y="47" type="curve" smooth="yes"/>
+      <point x="27" y="31"/>
+      <point x="27" y="16"/>
+      <point x="27" y="0" type="curve" smooth="yes"/>
+      <point x="27" y="0"/>
+      <point x="27" y="0"/>
+      <point x="27" y="0" type="curve"/>
       <point x="27" y="0" type="line"/>
       <point x="127" y="0" type="line"/>
-      <point x="127" y="500" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="0"/>
+      <point x="127" y="0"/>
+      <point x="127" y="0" type="curve" smooth="yes"/>
+      <point x="127" y="16"/>
+      <point x="127" y="32"/>
+      <point x="127" y="48" type="curve" smooth="yes"/>
+      <point x="127" y="65"/>
+      <point x="127" y="83"/>
+      <point x="127" y="100" type="curve" smooth="yes"/>
+      <point x="127" y="100"/>
+      <point x="127" y="100"/>
+      <point x="127" y="100" type="curve"/>
+      <point x="127" y="100" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>StemLength</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Stemwidth</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
@@ -20,13 +69,34 @@
           <string>Stemlength</string>
           <key>location</key>
           <dict>
-            <key>weight</key>
-            <integer>500</integer>
+            <key>StemLength</key>
+            <integer>100</integer>
+            <key>slant</key>
+            <real>11.9911296857009</real>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
           <string>Stemlength</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>StemWidth</string>
+          <key>location</key>
+          <dict>
+            <key>StemLength</key>
+            <integer>100</integer>
+            <key>Stemwidth</key>
+            <integer>100</integer>
+            <key>slant</key>
+            <real>11.9911296857009</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>StemWidth</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

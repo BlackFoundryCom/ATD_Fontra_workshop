@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chan" format="2">
+  <advance width="840"/>
+  <outline>
+    <contour>
+      <point x="20" y="10" type="line"/>
+      <point x="20" y="10" type="line"/>
+      <point x="20" y="10"/>
+      <point x="20" y="10"/>
+      <point x="20" y="10" type="curve" smooth="yes"/>
+      <point x="20" y="0" type="line" smooth="yes"/>
+      <point x="20" y="0"/>
+      <point x="20" y="0"/>
+      <point x="20" y="0" type="curve"/>
+      <point x="20" y="0" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="820" y="0"/>
+      <point x="820" y="0"/>
+      <point x="820" y="0" type="curve" smooth="yes"/>
+      <point x="820" y="10" type="line" smooth="yes"/>
+      <point x="820" y="10"/>
+      <point x="820" y="10"/>
+      <point x="820" y="10" type="curve"/>
+      <point x="820" y="10" type="line"/>
+    </contour>
+  </outline>
+</glyph>

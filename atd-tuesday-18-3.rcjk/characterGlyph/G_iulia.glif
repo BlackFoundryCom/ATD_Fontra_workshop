@@ -3,14 +3,29 @@
   <advance width="500"/>
   <outline>
     <contour>
-      <point x="0" y="100" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="20" y="0" type="line"/>
+      <point x="0" y="100" type="curve"/>
+      <point x="0" y="67"/>
+      <point x="0" y="33"/>
+      <point x="0" y="0" type="curve"/>
+      <point x="17" y="10"/>
+      <point x="23" y="10"/>
+      <point x="20" y="0" type="curve"/>
       <point x="80" y="0" type="line"/>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="100" type="line"/>
-      <point x="80" y="100" type="line"/>
+      <point x="77" y="10"/>
+      <point x="83" y="10"/>
+      <point x="100" y="0" type="curve"/>
+      <point x="100" y="33"/>
+      <point x="100" y="67"/>
+      <point x="100" y="100" type="curve"/>
+      <point x="83" y="90"/>
+      <point x="77" y="90"/>
+      <point x="80" y="100" type="curve"/>
       <point x="20" y="100" type="line"/>
+      <point x="23" y="90"/>
+      <point x="17" y="90"/>
+    </contour>
+    <contour>
+      <point x="73" y="224" type="move"/>
     </contour>
   </outline>
   <lib>
@@ -26,6 +41,26 @@
           <integer>0</integer>
           <key>name</key>
           <string>CornersCut</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>StemLength</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Bend</string>
         </dict>
       </array>
       <key>robocjk.status</key>
@@ -44,6 +79,38 @@
           <true/>
           <key>sourceName</key>
           <string>CornersCut=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>StemLength=100</string>
+          <key>location</key>
+          <dict>
+            <key>StemLength</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>StemLength=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>StemLength=100,Bend=100</string>
+          <key>location</key>
+          <dict>
+            <key>Bend</key>
+            <integer>100</integer>
+            <key>StemLength</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>StemLength=100,Bend=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
