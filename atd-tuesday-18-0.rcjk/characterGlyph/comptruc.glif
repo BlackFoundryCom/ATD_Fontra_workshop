@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comptruc" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="154" y="120" type="line"/>
+      <point x="11" y="1" type="line"/>
+      <point x="461" y="2" type="line"/>
+      <point x="338" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>50</integer>
+          <key>maxValue</key>
+          <integer>200</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fat</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>fat=200</string>
+          <key>location</key>
+          <dict>
+            <key>fat</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>fat=200</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
