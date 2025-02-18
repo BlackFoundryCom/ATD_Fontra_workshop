@@ -58,8 +58,8 @@
       <point x="466" y="372"/>
       <point x="460" y="376" type="curve"/>
       <point x="423" y="340"/>
-      <point x="365" y="302"/>
-      <point x="296" y="290" type="curve"/>
+      <point x="363" y="304"/>
+      <point x="294" y="292" type="curve"/>
       <point x="293" y="297" type="line"/>
       <point x="339" y="324"/>
       <point x="372" y="369"/>
@@ -73,7 +73,7 @@
           <key>coord</key>
           <dict>
             <key>contrast</key>
-            <integer>100</integer>
+            <integer>0</integer>
           </dict>
           <key>name</key>
           <string>comp0001</string>
