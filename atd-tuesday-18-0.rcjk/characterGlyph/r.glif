@@ -4,9 +4,6 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="52" y="0" type="line"/>
-      <point x="266" y="0" type="line"/>
-      <point x="266" y="16" type="line"/>
       <point x="195" y="48" type="line"/>
       <point x="195" y="367" type="line"/>
       <point x="185" y="460" type="line"/>
@@ -15,7 +12,6 @@
       <point x="55" y="398" type="line"/>
       <point x="115" y="346" type="line"/>
       <point x="115" y="48" type="line"/>
-      <point x="52" y="16" type="line"/>
     </contour>
     <contour>
       <point x="272" y="380" type="curve"/>
@@ -39,11 +35,69 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.deepComponents</key>
+      <array>
+        <dict>
+          <key>coord</key>
+          <dict>
+            <key>SERF</key>
+            <integer>0</integer>
+          </dict>
+          <key>name</key>
+          <string>serif</string>
+          <key>transform</key>
+          <dict>
+            <key>rotation</key>
+            <integer>0</integer>
+            <key>scalex</key>
+            <integer>1</integer>
+            <key>scaley</key>
+            <integer>1</integer>
+            <key>tcenterx</key>
+            <integer>0</integer>
+            <key>tcentery</key>
+            <integer>0</integer>
+            <key>x</key>
+            <integer>4</integer>
+            <key>y</key>
+            <integer>230</integer>
+          </dict>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
+          <key>deepComponents</key>
+          <array>
+            <dict>
+              <key>coord</key>
+              <dict>
+                <key>SERF</key>
+                <integer>0</integer>
+              </dict>
+              <key>name</key>
+              <string>serif</string>
+              <key>transform</key>
+              <dict>
+                <key>rotation</key>
+                <integer>0</integer>
+                <key>scalex</key>
+                <integer>1</integer>
+                <key>scaley</key>
+                <integer>1</integer>
+                <key>tcenterx</key>
+                <integer>0</integer>
+                <key>tcentery</key>
+                <integer>0</integer>
+                <key>x</key>
+                <integer>4</integer>
+                <key>y</key>
+                <integer>230</integer>
+              </dict>
+            </dict>
+          </array>
           <key>layerName</key>
           <string>width=200</string>
           <key>location</key>

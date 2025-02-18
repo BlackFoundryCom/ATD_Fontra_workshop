@@ -10,11 +10,11 @@
       <array>
         <dict>
           <key>defaultValue</key>
-          <integer>0</integer>
-          <key>maxValue</key>
           <integer>100</integer>
+          <key>maxValue</key>
+          <integer>200</integer>
           <key>minValue</key>
-          <integer>0</integer>
+          <integer>50</integer>
           <key>name</key>
           <string>UntitledAxis</string>
         </dict>

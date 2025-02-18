@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="seven" format="2">
+<glyph name="five.circled" format="2">
   <advance width="500"/>
-  <unicode hex="0037"/>
+  <unicode hex="2464"/>
   <outline>
+    <contour>
+      <point x="377" y="433" type="move"/>
+      <point x="284" y="433" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
