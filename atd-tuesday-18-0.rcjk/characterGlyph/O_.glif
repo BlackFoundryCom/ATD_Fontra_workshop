@@ -61,7 +61,7 @@
             <key>optical</key>
             <integer>144</integer>
             <key>width</key>
-            <real>54.9522265824945</real>
+            <integer>54</integer>
           </dict>
           <key>on</key>
           <true/>
