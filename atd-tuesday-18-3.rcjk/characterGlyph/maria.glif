@@ -43,6 +43,16 @@
           <key>name</key>
           <string>01</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>02</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -60,6 +70,21 @@
           <true/>
           <key>sourceName</key>
           <string>01=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>02=100</string>
+          <key>location</key>
+          <dict>
+            <key>02</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>02=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

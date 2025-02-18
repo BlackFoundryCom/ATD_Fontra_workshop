@@ -7,22 +7,22 @@
       <point x="20" y="333"/>
       <point x="20" y="167"/>
       <point x="0" y="0" type="curve"/>
-      <point x="17" y="-13"/>
-      <point x="33" y="-27"/>
-      <point x="50" y="-40" type="curve"/>
-      <point x="50" y="-40" type="line"/>
-      <point x="67" y="-27"/>
-      <point x="83" y="-13"/>
+      <point x="34" y="-6"/>
+      <point x="80" y="-34"/>
+      <point x="80" y="-80" type="curve"/>
+      <point x="20" y="-80" type="line"/>
+      <point x="20" y="-34"/>
+      <point x="66" y="-6"/>
       <point x="100" y="0" type="curve"/>
       <point x="80" y="167"/>
       <point x="80" y="333"/>
       <point x="100" y="500" type="curve"/>
-      <point x="83" y="513"/>
-      <point x="67" y="527"/>
-      <point x="50" y="540" type="curve"/>
-      <point x="50" y="540" type="line"/>
-      <point x="33" y="527"/>
-      <point x="17" y="513"/>
+      <point x="66" y="506"/>
+      <point x="20" y="534"/>
+      <point x="20" y="580" type="curve"/>
+      <point x="80" y="580" type="line"/>
+      <point x="80" y="533"/>
+      <point x="34" y="506"/>
     </contour>
     <contour>
       <point x="73" y="224" type="move"/>
