@@ -4,32 +4,32 @@
   <unicode hex="0042"/>
   <outline>
     <contour>
-      <point x="436" y="556.5" type="curve" smooth="yes"/>
-      <point x="436" y="634.6482920967"/>
-      <point x="355.6351125891" y="698"/>
-      <point x="256.5" y="698" type="curve" smooth="yes"/>
-      <point x="157.3648874109" y="698"/>
-      <point x="77" y="634.6482920967"/>
-      <point x="77" y="556.5" type="curve" smooth="yes"/>
-      <point x="77" y="478.3517079033"/>
-      <point x="157.3648874109" y="415"/>
-      <point x="256.5" y="415" type="curve" smooth="yes"/>
-      <point x="355.6351125891" y="415"/>
-      <point x="436" y="478.3517079033"/>
+      <point x="436" y="557" type="curve" smooth="yes"/>
+      <point x="436" y="635"/>
+      <point x="356" y="698"/>
+      <point x="257" y="698" type="curve" smooth="yes"/>
+      <point x="157" y="698"/>
+      <point x="77" y="635"/>
+      <point x="77" y="557" type="curve" smooth="yes"/>
+      <point x="77" y="478"/>
+      <point x="157" y="415"/>
+      <point x="257" y="415" type="curve" smooth="yes"/>
+      <point x="356" y="415"/>
+      <point x="436" y="478"/>
     </contour>
     <contour>
-      <point x="211" y="585.5" type="curve" smooth="yes"/>
-      <point x="211" y="566.4461761319"/>
-      <point x="193.3152476171" y="551"/>
-      <point x="171.5" y="551" type="curve" smooth="yes"/>
-      <point x="149.6847523829" y="551"/>
-      <point x="132" y="566.4461761319"/>
-      <point x="132" y="585.5" type="curve" smooth="yes"/>
-      <point x="132" y="604.5538238681"/>
-      <point x="149.6847523829" y="620"/>
-      <point x="171.5" y="620" type="curve" smooth="yes"/>
-      <point x="193.3152476171" y="620"/>
-      <point x="211" y="604.5538238681"/>
+      <point x="211" y="586" type="curve" smooth="yes"/>
+      <point x="211" y="566"/>
+      <point x="193" y="551"/>
+      <point x="172" y="551" type="curve" smooth="yes"/>
+      <point x="150" y="551"/>
+      <point x="132" y="566"/>
+      <point x="132" y="586" type="curve" smooth="yes"/>
+      <point x="132" y="605"/>
+      <point x="150" y="620"/>
+      <point x="172" y="620" type="curve" smooth="yes"/>
+      <point x="193" y="620"/>
+      <point x="211" y="605"/>
     </contour>
     <contour>
       <point x="371" y="586" type="curve" smooth="yes"/>
@@ -46,18 +46,18 @@
       <point x="371" y="605"/>
     </contour>
     <contour>
-      <point x="161" y="577.5" type="curve" smooth="yes"/>
-      <point x="161" y="582.7467051231"/>
-      <point x="156.0751322478" y="587"/>
+      <point x="161" y="578" type="curve" smooth="yes"/>
+      <point x="161" y="583"/>
+      <point x="156" y="587"/>
       <point x="150" y="587" type="curve" smooth="yes"/>
-      <point x="143.9248677522" y="587"/>
-      <point x="139" y="582.7467051231"/>
-      <point x="139" y="577.5" type="curve" smooth="yes"/>
-      <point x="139" y="572.2532948769"/>
-      <point x="143.9248677522" y="568"/>
+      <point x="144" y="587"/>
+      <point x="139" y="583"/>
+      <point x="139" y="578" type="curve" smooth="yes"/>
+      <point x="139" y="572"/>
+      <point x="144" y="568"/>
       <point x="150" y="568" type="curve" smooth="yes"/>
-      <point x="156.0751322478" y="568"/>
-      <point x="161" y="572.2532948769"/>
+      <point x="156" y="568"/>
+      <point x="161" y="572"/>
     </contour>
     <contour>
       <point x="323" y="577" type="curve" smooth="yes"/>
@@ -108,43 +108,4 @@
       <point x="186" y="659" type="move"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>robocjk.status</key>
-      <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>weight=900</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>900</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=900</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=100</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>
