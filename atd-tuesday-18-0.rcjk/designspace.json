@@ -46,6 +46,10 @@
                     "zone": 16
                 }
             },
+            "location": {
+                "optical": 12,
+                "width": 100
+            },
             "name": "Regular"
         }
     }

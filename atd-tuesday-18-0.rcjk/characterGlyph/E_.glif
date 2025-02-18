@@ -44,6 +44,73 @@
     <dict>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>Variant 1</string>
+          <key>location</key>
+          <dict>
+            <key>optical</key>
+            <integer>8</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Variant 1</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Variant 2</string>
+          <key>location</key>
+          <dict>
+            <key>optical</key>
+            <integer>144</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Variant 2</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Variant 3</string>
+          <key>location</key>
+          <dict>
+            <key>optical</key>
+            <integer>72</integer>
+            <key>width</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Variant 3</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Variant 4</string>
+          <key>location</key>
+          <dict>
+            <key>optical</key>
+            <integer>72</integer>
+            <key>width</key>
+            <integer>200</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Variant 4</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
