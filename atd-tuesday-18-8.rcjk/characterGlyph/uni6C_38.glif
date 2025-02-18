@@ -96,7 +96,7 @@
           <key>coord</key>
           <dict>
             <key>contrast</key>
-            <real>95.3583521444695</real>
+            <integer>0</integer>
             <key>lenght</key>
             <real>60.8493227990971</real>
           </dict>
