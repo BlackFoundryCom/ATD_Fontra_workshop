@@ -2,11 +2,75 @@
 <glyph name="chan" format="2">
   <advance width="500"/>
   <outline>
+    <contour>
+      <point x="8" y="751" type="line"/>
+      <point x="10" y="1" type="line"/>
+      <point x="114" y="1" type="line"/>
+      <point x="112" y="751" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>stemlength</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>stemwidth</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>stemlength=100</string>
+          <key>location</key>
+          <dict>
+            <key>stemlength</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>stemlength=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>stemlength=100,stemwidth=100</string>
+          <key>location</key>
+          <dict>
+            <key>stemlength</key>
+            <integer>100</integer>
+            <key>stemwidth</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>stemlength=100,stemwidth=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

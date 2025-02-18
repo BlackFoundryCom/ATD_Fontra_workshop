@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maria" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="143" y="415" type="line"/>
+      <point x="143" y="129" type="line"/>
+      <point x="400" y="129" type="line"/>
+      <point x="400" y="415" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>01</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
