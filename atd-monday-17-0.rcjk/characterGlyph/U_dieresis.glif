@@ -4,10 +4,10 @@
   <unicode hex="00DC"/>
   <outline>
     <contour>
-      <point x="52" y="490" type="line"/>
-      <point x="52" y="85" type="line"/>
-      <point x="121" y="85" type="line"/>
-      <point x="121" y="490" type="line"/>
+      <point x="348" y="396" type="line"/>
+      <point x="62" y="109" type="line"/>
+      <point x="111" y="61" type="line"/>
+      <point x="397" y="347" type="line"/>
     </contour>
     <contour>
       <point x="52" y="84" type="move"/>
@@ -15,8 +15,54 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tilt</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>tilt=100</string>
+          <key>location</key>
+          <dict>
+            <key>tilt</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>tilt=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>tilt=50</string>
+          <key>location</key>
+          <dict>
+            <key>tilt</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>tilt=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

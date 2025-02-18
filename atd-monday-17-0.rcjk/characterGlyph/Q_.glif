@@ -47,52 +47,37 @@
   </outline>
   <lib>
     <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bend</string>
+        </dict>
+      </array>
       <key>robocjk.status</key>
       <integer>0</integer>
       <key>robocjk.variationGlyphs</key>
       <array>
         <dict>
           <key>layerName</key>
-          <string>weight=900</string>
+          <string>bend=900</string>
           <key>location</key>
           <dict>
+            <key>bend</key>
+            <integer>100</integer>
             <key>weight</key>
             <integer>900</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=900</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=100</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=600</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>600</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=600</string>
+          <string>bend=900</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

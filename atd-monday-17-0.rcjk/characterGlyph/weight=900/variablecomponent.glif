@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="variablecomponent" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="90" y="622" type="line"/>
+      <point x="90" y="433"/>
+      <point x="90" y="244"/>
+      <point x="90" y="55" type="curve"/>
+      <point x="361" y="55" type="line"/>
+      <point x="361" y="244"/>
+      <point x="361" y="433"/>
+      <point x="361" y="622" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
