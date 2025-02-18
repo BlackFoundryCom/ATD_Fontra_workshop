@@ -12,7 +12,7 @@
             {
                 "defaultValue": 14,
                 "label": "Optical Size",
-                "maxValue": 144,
+                "maxValue": 800,
                 "minValue": 8,
                 "name": "optical",
                 "tag": "opsz"
