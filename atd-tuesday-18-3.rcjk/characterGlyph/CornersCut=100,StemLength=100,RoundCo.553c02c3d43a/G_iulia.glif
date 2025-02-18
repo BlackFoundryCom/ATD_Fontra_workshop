@@ -8,20 +8,20 @@
       <point x="20" y="167"/>
       <point x="0" y="0" type="curve"/>
       <point x="34" y="-6"/>
-      <point x="236" y="-34"/>
-      <point x="236" y="-80" type="curve"/>
+      <point x="180" y="-34"/>
+      <point x="180" y="-80" type="curve"/>
       <point x="20" y="-80" type="line"/>
       <point x="20" y="-34"/>
-      <point x="222" y="-6"/>
-      <point x="256" y="0" type="curve"/>
-      <point x="236" y="167"/>
-      <point x="236" y="333"/>
-      <point x="256" y="500" type="curve"/>
-      <point x="222" y="506"/>
+      <point x="166" y="-6"/>
+      <point x="200" y="0" type="curve"/>
+      <point x="180" y="167"/>
+      <point x="180" y="333"/>
+      <point x="200" y="500" type="curve"/>
+      <point x="166" y="506"/>
       <point x="20" y="534"/>
       <point x="20" y="580" type="curve"/>
-      <point x="236" y="580" type="line"/>
-      <point x="236" y="533"/>
+      <point x="180" y="580" type="line"/>
+      <point x="180" y="533"/>
       <point x="34" y="506"/>
     </contour>
   </outline>
