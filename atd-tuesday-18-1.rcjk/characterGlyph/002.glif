@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="002" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="427" y="229" type="curve" smooth="yes"/>
+      <point x="427" y="282"/>
+      <point x="384" y="325"/>
+      <point x="331" y="325" type="curve" smooth="yes"/>
+      <point x="277" y="325"/>
+      <point x="234" y="282"/>
+      <point x="234" y="229" type="curve" smooth="yes"/>
+      <point x="234" y="175"/>
+      <point x="277" y="132"/>
+      <point x="331" y="132" type="curve" smooth="yes"/>
+      <point x="384" y="132"/>
+      <point x="427" y="175"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>200</integer>
+          <key>minValue</key>
+          <integer>50</integer>
+          <key>name</key>
+          <string>component 002</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>component 002=50</string>
+          <key>location</key>
+          <dict>
+            <key>component 002</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>component 002=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
