@@ -1,1 +1,65 @@
-{}
+{
+    "axes": {
+        "axes": [
+            {
+                "defaultValue": 400,
+                "label": "Weight",
+                "maxValue": 900,
+                "minValue": 100,
+                "name": "weight",
+                "tag": "wght"
+            },
+            {
+                "defaultValue": 100,
+                "label": "Width",
+                "maxValue": 200,
+                "minValue": 50,
+                "name": "width",
+                "tag": "wdth"
+            },
+            {
+                "defaultValue": 0,
+                "label": "Slant",
+                "maxValue": 20,
+                "minValue": -20,
+                "name": "slant",
+                "tag": "slnt"
+            }
+        ]
+    },
+    "fontInfo": {
+        "familyName": "Stem"
+    },
+    "sources": {
+        "75b1a3af": {
+            "lineMetricsHorizontalLayout": {
+                "ascender": {
+                    "value": 800,
+                    "zone": 16
+                },
+                "baseline": {
+                    "value": 0,
+                    "zone": -16
+                },
+                "capHeight": {
+                    "value": 750,
+                    "zone": 16
+                },
+                "descender": {
+                    "value": -250,
+                    "zone": -16
+                },
+                "xHeight": {
+                    "value": 500,
+                    "zone": 16
+                }
+            },
+            "location": {
+                "slant": 0,
+                "weight": 400,
+                "width": 100
+            },
+            "name": "Untitled source"
+        }
+    }
+}
