@@ -47,6 +47,36 @@
           <key>status</key>
           <integer>0</integer>
         </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curliness=50</string>
+          <key>location</key>
+          <dict>
+            <key>curliness</key>
+            <integer>50</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curliness=50</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>curliness=20</string>
+          <key>location</key>
+          <dict>
+            <key>curliness</key>
+            <integer>20</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>curliness=20</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
       </array>
     </dict>
   </lib>
