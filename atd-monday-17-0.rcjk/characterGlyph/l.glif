@@ -3,11 +3,73 @@
   <advance width="500"/>
   <unicode hex="006C"/>
   <outline>
+    <contour>
+      <point x="304" y="269" type="curve" smooth="yes"/>
+      <point x="326" y="412"/>
+      <point x="268" y="554"/>
+      <point x="251" y="554" type="curve" smooth="yes"/>
+      <point x="232" y="554"/>
+      <point x="244" y="288"/>
+      <point x="244" y="188" type="curve" smooth="yes"/>
+      <point x="244" y="87"/>
+      <point x="387" y="6"/>
+      <point x="347" y="4" type="curve" smooth="yes"/>
+      <point x="-32" y="-15"/>
+      <point x="284" y="139"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>robocjk.status</key>
       <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>weight=403.9</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>403.892285298399</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=403.9</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=471.8</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>471.761280931587</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=471.8</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>weight=563.5</string>
+          <key>location</key>
+          <dict>
+            <key>weight</key>
+            <real>563.464337700146</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>weight=563.5</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

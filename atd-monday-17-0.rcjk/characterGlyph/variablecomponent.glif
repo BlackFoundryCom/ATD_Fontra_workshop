@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="variablecomponent" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="90" y="622" type="line"/>
+      <point x="90" y="55" type="line"/>
+      <point x="239" y="55" type="line"/>
+      <point x="239" y="622" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
