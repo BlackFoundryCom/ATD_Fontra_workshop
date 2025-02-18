@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comp_2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="196" y="500" type="line"/>
+      <point x="196" y="187" type="line" smooth="yes"/>
+      <point x="196" y="125"/>
+      <point x="196" y="72"/>
+      <point x="196" y="10" type="curve" smooth="yes"/>
+      <point x="196" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="10" type="line" smooth="yes"/>
+      <point x="286" y="72"/>
+      <point x="286" y="125"/>
+      <point x="286" y="187" type="curve" smooth="yes"/>
+      <point x="286" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>100</integer>
+          <key>maxValue</key>
+          <integer>200</integer>
+          <key>minValue</key>
+          <integer>10</integer>
+          <key>name</key>
+          <string>width</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>500</integer>
+          <key>maxValue</key>
+          <integer>500</integer>
+          <key>minValue</key>
+          <integer>100</integer>
+          <key>name</key>
+          <string>height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bendleft</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bendleft-height</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bendright</string>
+        </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bendright-height</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>bendleft=100</string>
+          <key>location</key>
+          <dict>
+            <key>bendleft</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>bendleft=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>blft100blfth100</string>
+          <key>location</key>
+          <dict>
+            <key>bendleft</key>
+            <integer>100</integer>
+            <key>bendleft-height</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>blft100blfth100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>width=10,bendleft=100,bendleft-height=100</string>
+          <key>location</key>
+          <dict>
+            <key>bendleft</key>
+            <integer>100</integer>
+            <key>bendleft-height</key>
+            <integer>100</integer>
+            <key>width</key>
+            <integer>10</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>width=10,bendleft=100,bendleft-height=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
