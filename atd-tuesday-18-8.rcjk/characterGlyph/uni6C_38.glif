@@ -94,7 +94,7 @@
           <key>coord</key>
           <dict>
             <key>contrast</key>
-            <real>94.7940180586907</real>
+            <integer>100</integer>
             <key>lenght</key>
             <integer>0</integer>
           </dict>
@@ -113,9 +113,9 @@
             <key>tcentery</key>
             <integer>0</integer>
             <key>x</key>
-            <integer>-20</integer>
+            <integer>-179</integer>
             <key>y</key>
-            <integer>0</integer>
+            <integer>-16</integer>
           </dict>
         </dict>
       </array>

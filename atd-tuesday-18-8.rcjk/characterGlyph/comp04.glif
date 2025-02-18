@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comp04" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="376" y="417" type="line"/>
+      <point x="164" y="241" type="line"/>
+      <point x="213" y="177" type="line"/>
+      <point x="425" y="353" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

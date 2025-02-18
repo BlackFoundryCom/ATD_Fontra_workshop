@@ -5,7 +5,7 @@
     <contour>
       <point x="272" y="228" type="line"/>
       <point x="388" y="363" type="line"/>
-      <point x="301" y="361" type="line"/>
+      <point x="301" y="363" type="line"/>
       <point x="219" y="272" type="line"/>
     </contour>
   </outline>
@@ -55,18 +55,16 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>lenght=100,contrast=100</string>
+          <string>contrast=100</string>
           <key>location</key>
           <dict>
             <key>contrast</key>
-            <integer>100</integer>
-            <key>lenght</key>
             <integer>100</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>lenght=100,contrast=100</string>
+          <string>contrast=100</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
