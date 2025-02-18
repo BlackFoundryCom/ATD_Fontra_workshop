@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maria2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="200" y="307" type="line"/>
+      <point x="200" y="307" type="line"/>
+      <point x="200" y="307"/>
+      <point x="200" y="307"/>
+      <point x="200" y="307" type="curve"/>
+      <point x="200" y="274" type="line"/>
+      <point x="200" y="274" type="line"/>
+      <point x="200" y="242" type="line"/>
+      <point x="200" y="242" type="line"/>
+      <point x="200" y="1" type="line" smooth="yes"/>
+      <point x="200" y="1"/>
+      <point x="200" y="1"/>
+      <point x="200" y="1" type="curve"/>
+      <point x="200" y="1" type="line"/>
+      <point x="234" y="1" type="line"/>
+      <point x="234" y="1" type="line"/>
+      <point x="266" y="1" type="line"/>
+      <point x="266" y="1" type="line"/>
+      <point x="300" y="1" type="line"/>
+      <point x="300" y="1" type="line"/>
+      <point x="300" y="1"/>
+      <point x="300" y="1"/>
+      <point x="300" y="1" type="curve"/>
+      <point x="300" y="242" type="line"/>
+      <point x="300" y="242" type="line"/>
+      <point x="300" y="274" type="line"/>
+      <point x="300" y="274" type="line"/>
+      <point x="300" y="307" type="line" smooth="yes"/>
+      <point x="300" y="307"/>
+      <point x="300" y="307"/>
+      <point x="300" y="307" type="curve"/>
+      <point x="300" y="0" type="line"/>
+      <point x="266" y="307" type="line"/>
+      <point x="266" y="1" type="line"/>
+      <point x="234" y="307" type="line"/>
+      <point x="234" y="1" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -59,6 +59,16 @@
           <key>name</key>
           <string>Stemwidth</string>
         </dict>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sharp</string>
+        </dict>
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
@@ -97,6 +107,27 @@
           <true/>
           <key>sourceName</key>
           <string>StemWidth</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+        <dict>
+          <key>layerName</key>
+          <string>Sharp</string>
+          <key>location</key>
+          <dict>
+            <key>Sharp</key>
+            <integer>100</integer>
+            <key>StemLength</key>
+            <integer>100</integer>
+            <key>Stemwidth</key>
+            <integer>100</integer>
+            <key>slant</key>
+            <real>11.9911296857009</real>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>Sharp</string>
           <key>status</key>
           <integer>0</integer>
         </dict>

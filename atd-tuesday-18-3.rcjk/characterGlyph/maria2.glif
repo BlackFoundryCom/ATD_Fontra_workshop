@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maria2" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="200" y="307" type="line"/>
+      <point x="200" y="307" type="line"/>
+      <point x="200" y="307"/>
+      <point x="200" y="307"/>
+      <point x="200" y="307" type="curve"/>
+      <point x="200" y="274" type="line"/>
+      <point x="200" y="274" type="line"/>
+      <point x="200" y="242" type="line"/>
+      <point x="200" y="242" type="line"/>
+      <point x="200" y="207" type="line" smooth="yes"/>
+      <point x="200" y="207"/>
+      <point x="200" y="207"/>
+      <point x="200" y="207" type="curve"/>
+      <point x="200" y="207" type="line"/>
+      <point x="234" y="207" type="line"/>
+      <point x="234" y="207" type="line"/>
+      <point x="266" y="207" type="line"/>
+      <point x="266" y="207" type="line"/>
+      <point x="300" y="207" type="line"/>
+      <point x="300" y="207" type="line"/>
+      <point x="300" y="207"/>
+      <point x="300" y="207"/>
+      <point x="300" y="207" type="curve"/>
+      <point x="300" y="242" type="line"/>
+      <point x="300" y="242" type="line"/>
+      <point x="300" y="274" type="line"/>
+      <point x="300" y="274" type="line"/>
+      <point x="300" y="307" type="line" smooth="yes"/>
+      <point x="300" y="307"/>
+      <point x="300" y="307"/>
+      <point x="300" y="307" type="curve"/>
+      <point x="300" y="307" type="line"/>
+      <point x="266" y="307" type="line"/>
+      <point x="266" y="307" type="line"/>
+      <point x="234" y="307" type="line"/>
+      <point x="234" y="307" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>robocjk.axes</key>
+      <array>
+        <dict>
+          <key>defaultValue</key>
+          <integer>0</integer>
+          <key>maxValue</key>
+          <integer>100</integer>
+          <key>minValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>01</string>
+        </dict>
+      </array>
+      <key>robocjk.status</key>
+      <integer>0</integer>
+      <key>robocjk.variationGlyphs</key>
+      <array>
+        <dict>
+          <key>layerName</key>
+          <string>01=100</string>
+          <key>location</key>
+          <dict>
+            <key>01</key>
+            <integer>100</integer>
+          </dict>
+          <key>on</key>
+          <true/>
+          <key>sourceName</key>
+          <string>01=100</string>
+          <key>status</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
