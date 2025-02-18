@@ -84,60 +84,6 @@
       </array>
       <key>robocjk.status</key>
       <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>bendleft=100</string>
-          <key>location</key>
-          <dict>
-            <key>bendleft</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>bendleft=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>blft100blfth100</string>
-          <key>location</key>
-          <dict>
-            <key>bendleft</key>
-            <integer>100</integer>
-            <key>bendleft-height</key>
-            <integer>100</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>blft100blfth100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>width=10,bendleft=100,bendleft-height=100</string>
-          <key>location</key>
-          <dict>
-            <key>bendleft</key>
-            <integer>100</integer>
-            <key>bendleft-height</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>10</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>width=10,bendleft=100,bendleft-height=100</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>
