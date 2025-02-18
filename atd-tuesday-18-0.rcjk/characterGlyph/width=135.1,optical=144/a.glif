@@ -14,9 +14,9 @@
       <point x="237" y="52"/>
       <point x="200" y="52" type="curve" smooth="yes"/>
       <point x="152" y="52"/>
-      <point x="125" y="73"/>
-      <point x="125" y="114" type="curve" smooth="yes"/>
-      <point x="125" y="162"/>
+      <point x="249" y="78"/>
+      <point x="249" y="119" type="curve" smooth="yes"/>
+      <point x="249" y="167"/>
       <point x="144" y="197"/>
       <point x="333" y="229" type="curve"/>
       <point x="333" y="265" type="line"/>
@@ -63,30 +63,4 @@
       <point x="336" y="-10"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>robocjk.status</key>
-      <integer>0</integer>
-      <key>robocjk.variationGlyphs</key>
-      <array>
-        <dict>
-          <key>layerName</key>
-          <string>width=135.1,optical=144</string>
-          <key>location</key>
-          <dict>
-            <key>optical</key>
-            <integer>144</integer>
-            <key>width</key>
-            <real>135.088821101741</real>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>width=135.1,optical=144</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>
