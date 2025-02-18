@@ -42,7 +42,7 @@
             <key>optical</key>
             <integer>144</integer>
             <key>width</key>
-            <integer>54</integer>
+            <integer>50</integer>
           </dict>
           <key>on</key>
           <true/>
