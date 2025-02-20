@@ -370,61 +370,61 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=210</string>
+          <string>weight=300</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <integer>210</integer>
+            <integer>300</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=210</string>
+          <string>weight=300</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=310</string>
+          <string>weight=500</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <integer>310</integer>
+            <integer>500</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=310</string>
+          <string>weight=500</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=370</string>
+          <string>weight=600</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <integer>370</integer>
+            <integer>600</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=370</string>
+          <string>weight=600</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=400</string>
+          <string>weight=700</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <integer>400</integer>
+            <integer>700</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=400</string>
+          <string>weight=700</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
