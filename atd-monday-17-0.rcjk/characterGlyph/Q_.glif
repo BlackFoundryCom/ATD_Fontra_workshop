@@ -358,21 +358,6 @@
       <array>
         <dict>
           <key>layerName</key>
-          <string>weight=900</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>900</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=900</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
           <string>weight=300</string>
           <key>location</key>
           <dict>
@@ -403,31 +388,16 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=600</string>
+          <string>weight=900</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <integer>600</integer>
+            <integer>800</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=600</string>
-          <key>status</key>
-          <integer>0</integer>
-        </dict>
-        <dict>
-          <key>layerName</key>
-          <string>weight=700</string>
-          <key>location</key>
-          <dict>
-            <key>weight</key>
-            <integer>700</integer>
-          </dict>
-          <key>on</key>
-          <true/>
-          <key>sourceName</key>
-          <string>weight=700</string>
+          <string>weight=900</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
