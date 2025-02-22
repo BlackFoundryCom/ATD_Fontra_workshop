@@ -403,16 +403,16 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=900</string>
+          <string>weight=545.6</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <integer>900</integer>
+            <real>545.647558386412</real>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=900</string>
+          <string>weight=545.6</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
