@@ -388,31 +388,31 @@
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=700</string>
+          <string>weight=600</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <real>790.818858560794</real>
+            <integer>600</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=700</string>
+          <string>weight=600</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
         <dict>
           <key>layerName</key>
-          <string>weight=545.6</string>
+          <string>weight=900</string>
           <key>location</key>
           <dict>
             <key>weight</key>
-            <real>545.647558386412</real>
+            <integer>900</integer>
           </dict>
           <key>on</key>
           <true/>
           <key>sourceName</key>
-          <string>weight=545.6</string>
+          <string>weight=900</string>
           <key>status</key>
           <integer>0</integer>
         </dict>
